@@ -1,0 +1,100 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 9
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 2700 1200 2    50   Output ~ 0
+DIGITAL_PIN
+$Comp
+L jlcpcb:EL817 U2
+U 1 1 601FE338
+P 2400 1300
+AR Path="/601F3A35/601FE338" Ref="U2"  Part="1" 
+AR Path="/601F3F45/601FE338" Ref="U3"  Part="1" 
+AR Path="/601FB64E/601FE338" Ref="U4"  Part="1" 
+AR Path="/601F54FA/601FE338" Ref="U5"  Part="1" 
+AR Path="/601F5635/601FE338" Ref="U6"  Part="1" 
+AR Path="/601F5761/601FE338" Ref="U7"  Part="1" 
+AR Path="/601F5881/601FE338" Ref="U8"  Part="1" 
+AR Path="/601F5CF2/601FE338" Ref="U9"  Part="1" 
+F 0 "U9" H 2400 1625 50  0000 C CNN
+F 1 "EL817" H 2400 1534 50  0000 C CNN
+F 2 "jlcpcb:EL817" H 3250 1100 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Everlight-Elec-EL817S1-C-TU-F_C106900.pdf" H 2400 1300 50  0001 C CNN
+F 4 "C106900" H 2200 1100 50  0001 C CNN "LCSC"
+	1    2400 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR?
+U 1 1 60223F3E
+P 2100 1400
+AR Path="/60223F3E" Ref="#PWR?"  Part="1" 
+AR Path="/601F3A35/60223F3E" Ref="#PWR0101"  Part="1" 
+AR Path="/601F3F45/60223F3E" Ref="#PWR0103"  Part="1" 
+AR Path="/601FB64E/60223F3E" Ref="#PWR0105"  Part="1" 
+AR Path="/601F54FA/60223F3E" Ref="#PWR0107"  Part="1" 
+AR Path="/601F5635/60223F3E" Ref="#PWR0109"  Part="1" 
+AR Path="/601F5761/60223F3E" Ref="#PWR0111"  Part="1" 
+AR Path="/601F5881/60223F3E" Ref="#PWR0113"  Part="1" 
+AR Path="/601F5CF2/60223F3E" Ref="#PWR0115"  Part="1" 
+F 0 "#PWR0115" H 2100 1200 50  0001 C CNN
+F 1 "GNDPWR" V 2104 1291 50  0000 R CNN
+F 2 "" H 2100 1350 50  0001 C CNN
+F 3 "" H 2100 1350 50  0001 C CNN
+	1    2100 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60223F4A
+P 2700 1400
+AR Path="/60223F4A" Ref="#PWR?"  Part="1" 
+AR Path="/601F3A35/60223F4A" Ref="#PWR0102"  Part="1" 
+AR Path="/601F3F45/60223F4A" Ref="#PWR0104"  Part="1" 
+AR Path="/601FB64E/60223F4A" Ref="#PWR0106"  Part="1" 
+AR Path="/601F54FA/60223F4A" Ref="#PWR0108"  Part="1" 
+AR Path="/601F5635/60223F4A" Ref="#PWR0110"  Part="1" 
+AR Path="/601F5761/60223F4A" Ref="#PWR0112"  Part="1" 
+AR Path="/601F5881/60223F4A" Ref="#PWR0114"  Part="1" 
+AR Path="/601F5CF2/60223F4A" Ref="#PWR0116"  Part="1" 
+F 0 "#PWR0116" H 2700 1150 50  0001 C CNN
+F 1 "GND" V 2705 1272 50  0000 R CNN
+F 2 "" H 2700 1400 50  0001 C CNN
+F 3 "" H 2700 1400 50  0001 C CNN
+	1    2700 1400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 602272BD
+P 1950 1200
+AR Path="/601F3A35/602272BD" Ref="R3"  Part="1" 
+AR Path="/601F3F45/602272BD" Ref="R4"  Part="1" 
+AR Path="/601FB64E/602272BD" Ref="R5"  Part="1" 
+AR Path="/601F54FA/602272BD" Ref="R6"  Part="1" 
+AR Path="/601F5635/602272BD" Ref="R7"  Part="1" 
+AR Path="/601F5761/602272BD" Ref="R8"  Part="1" 
+AR Path="/601F5881/602272BD" Ref="R9"  Part="1" 
+AR Path="/601F5CF2/602272BD" Ref="R10"  Part="1" 
+F 0 "R10" V 1743 1200 50  0000 C CNN
+F 1 "4k7" V 1834 1200 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 1880 1200 50  0001 C CNN
+F 3 "~" H 1950 1200 50  0001 C CNN
+F 4 "C17673" V 1950 1200 50  0001 C CNN "LCSC"
+	1    1950 1200
+	0    1    1    0   
+$EndComp
+Text HLabel 1800 1200 0    50   Input ~ 0
+PWR_IN
+$EndSCHEMATC
