@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 9
+Sheet 1 10
 Title ""
 Date ""
 Rev ""
@@ -476,4 +476,23 @@ F 3 "" H 2950 2750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 2950 2750
+$Sheet
+S 5000 3600 1550 150 
+U 6024B12E
+F0 "digital-out-1" 50
+F1 "../include/digital-out-5v.sch" 50
+F2 "DIGITAL_PIN" I L 5000 3650 50 
+F3 "PWR_OUT" O R 6550 3650 50 
+$EndSheet
+$Comp
+L Transistor_Array:ULN2803A U?
+U 1 1 602102EE
+P 7000 2050
+F 0 "U?" H 7000 2617 50  0000 C CNN
+F 1 "ULN2803A" H 7000 2526 50  0000 C CNN
+F 2 "" H 7050 1400 50  0001 L CNN
+F 3 "http://www.ti.com/lit/ds/symlink/uln2803a.pdf" H 7100 1850 50  0001 C CNN
+	1    7000 2050
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
