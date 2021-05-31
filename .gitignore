@@ -1,5 +1,8 @@
 fp-info-cache
+sym-lib-table
 *.kicad_pcb-bak
 *.bck
 *.sch-bak
 *-cache.lib
+*-rescue.dcm
+*-rescue.lib
