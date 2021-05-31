@@ -1,0 +1,410 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:Screw_Terminal_01x02 J2
+U 1 1 5EFB7288
+P 1250 2200
+F 0 "J2" H 1330 2192 50  0000 L CNN
+F 1 "24V System" H 1330 2101 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 1250 2200 50  0001 C CNN
+F 3 "~" H 1250 2200 50  0001 C CNN
+	1    1250 2200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x02 J1
+U 1 1 5F020F5D
+P 1250 1400
+F 0 "J1" H 1330 1392 50  0000 L CNN
+F 1 "24V Field" H 1330 1301 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 1250 1400 50  0001 C CNN
+F 3 "~" H 1250 1400 50  0001 C CNN
+	1    1250 1400
+	-1   0    0    1   
+$EndComp
+$Comp
+L boards:LM2596-Board U1
+U 1 1 5EFB2E28
+P 2550 2150
+F 0 "U1" H 2550 2465 50  0000 C CNN
+F 1 "LM2596-Board" H 2550 2374 50  0000 C CNN
+F 2 "boards:LM2596-Board" H 2550 2150 50  0001 C CNN
+F 3 "" H 2550 2150 50  0001 C CNN
+	1    2550 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR06
+U 1 1 5F0536DE
+P 3000 2100
+F 0 "#PWR06" H 3000 1950 50  0001 C CNN
+F 1 "+3.3V" H 3015 2273 50  0000 C CNN
+F 2 "" H 3000 2100 50  0001 C CNN
+F 3 "" H 3000 2100 50  0001 C CNN
+	1    3000 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR07
+U 1 1 5F054AFA
+P 2650 2950
+F 0 "#PWR07" H 2650 2700 50  0001 C CNN
+F 1 "GND" H 2655 2777 50  0000 C CNN
+F 2 "" H 2650 2950 50  0001 C CNN
+F 3 "" H 2650 2950 50  0001 C CNN
+	1    2650 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+24V #PWR04
+U 1 1 5F05B71C
+P 3000 1300
+F 0 "#PWR04" H 3000 1150 50  0001 C CNN
+F 1 "+24V" H 3015 1473 50  0000 C CNN
+F 2 "" H 3000 1300 50  0001 C CNN
+F 3 "" H 3000 1300 50  0001 C CNN
+	1    3000 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR05
+U 1 1 5F0677A8
+P 3000 1400
+F 0 "#PWR05" H 3000 1200 50  0001 C CNN
+F 1 "GNDPWR" H 3004 1246 50  0000 C CNN
+F 2 "" H 3000 1350 50  0001 C CNN
+F 3 "" H 3000 1350 50  0001 C CNN
+	1    3000 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 1300 1500 1300
+Wire Wire Line
+	1450 1400 1600 1400
+Wire Wire Line
+	1450 2100 1500 2100
+Wire Wire Line
+	1500 2050 1500 2100
+Connection ~ 1500 2100
+Wire Wire Line
+	1500 1300 1500 1450
+Connection ~ 1500 1300
+Wire Wire Line
+	1500 1300 1700 1300
+Wire Wire Line
+	1600 1400 1600 1450
+Connection ~ 1600 1400
+Wire Wire Line
+	1600 1400 3000 1400
+Wire Wire Line
+	1450 2200 1600 2200
+Wire Wire Line
+	1600 2050 1600 2200
+Connection ~ 1600 2200
+Wire Wire Line
+	3000 2100 2950 2100
+Wire Wire Line
+	3000 2200 2950 2200
+Wire Wire Line
+	1500 2100 2150 2100
+$Comp
+L Connector:Screw_Terminal_01x03 J4
+U 1 1 5FA9909B
+P 1250 3650
+F 0 "J4" H 1168 3325 50  0000 C CNN
+F 1 "Screw_Terminal_01x03" H 1168 3416 50  0000 C CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" H 1250 3650 50  0001 C CNN
+F 3 "~" H 1250 3650 50  0001 C CNN
+	1    1250 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+3.3V #PWR02
+U 1 1 5FAB0E8C
+P 1450 3750
+F 0 "#PWR02" H 1450 3600 50  0001 C CNN
+F 1 "+3.3V" V 1465 3878 50  0000 L CNN
+F 2 "" H 1450 3750 50  0001 C CNN
+F 3 "" H 1450 3750 50  0001 C CNN
+	1    1450 3750
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 5FAB1A66
+P 1450 3650
+F 0 "#PWR01" H 1450 3400 50  0001 C CNN
+F 1 "GND" V 1455 3522 50  0000 R CNN
+F 2 "" H 1450 3650 50  0001 C CNN
+F 3 "" H 1450 3650 50  0001 C CNN
+	1    1450 3650
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1450 3550 2    50   Input ~ 0
+1WIRE
+Text GLabel 2150 3550 0    50   Input ~ 0
+1WIRE
+$Comp
+L Device:R R1
+U 1 1 5FA70C52
+P 2300 3550
+F 0 "R1" V 2093 3550 50  0000 C CNN
+F 1 "4k7" V 2184 3550 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 2230 3550 50  0001 C CNN
+F 3 "~" H 2300 3550 50  0001 C CNN
+	1    2300 3550
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3.3V #PWR03
+U 1 1 5FA71536
+P 2450 3550
+F 0 "#PWR03" H 2450 3400 50  0001 C CNN
+F 1 "+3.3V" V 2465 3678 50  0000 L CNN
+F 2 "" H 2450 3550 50  0001 C CNN
+F 3 "" H 2450 3550 50  0001 C CNN
+	1    2450 3550
+	0    1    1    0   
+$EndComp
+Text GLabel 5300 2300 2    50   Input ~ 0
+1WIRE
+$Comp
+L power:GND #PWR09
+U 1 1 600E611F
+P 4100 2200
+F 0 "#PWR09" H 4100 1950 50  0001 C CNN
+F 1 "GND" V 4105 2072 50  0000 R CNN
+F 2 "" H 4100 2200 50  0001 C CNN
+F 3 "" H 4100 2200 50  0001 C CNN
+	1    4100 2200
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3.3V #PWR08
+U 1 1 600E6B7B
+P 4100 2100
+F 0 "#PWR08" H 4100 1950 50  0001 C CNN
+F 1 "+3.3V" V 4115 2228 50  0000 L CNN
+F 2 "" H 4100 2100 50  0001 C CNN
+F 3 "" H 4100 2100 50  0001 C CNN
+	1    4100 2100
+	0    -1   -1   0   
+$EndComp
+Text GLabel 5300 2200 2    50   Input ~ 0
+GPIO4
+Text GLabel 5300 2100 2    50   Input ~ 0
+GPIO5
+Text GLabel 5300 1900 2    50   Input ~ 0
+GPIO14
+Text GLabel 6650 2300 0    50   Input ~ 0
+GPIO15
+Text GLabel 6650 2400 0    50   Input ~ 0
+GPIO35
+Text GLabel 6650 2500 0    50   Input ~ 0
+GPIO36
+Text GLabel 6650 2100 0    50   Input ~ 0
+GPIO5
+Text GLabel 6650 2000 0    50   Input ~ 0
+GPIO4
+$Comp
+L Connector:Conn_01x06_Female J6
+U 1 1 6012ED6C
+P 6850 2200
+F 0 "J6" H 6878 2176 50  0000 L CNN
+F 1 "Conn_01x06_Female" H 6878 2085 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal" H 6850 2200 50  0001 C CNN
+F 3 "~" H 6850 2200 50  0001 C CNN
+	1    6850 2200
+	1    0    0    -1  
+$EndComp
+Text GLabel 6650 1300 0    50   Input ~ 0
+SDA
+Text GLabel 6650 1200 0    50   Input ~ 0
+SCL
+$Comp
+L power:GND #PWR010
+U 1 1 600DC367
+P 6650 1400
+F 0 "#PWR010" H 6650 1150 50  0001 C CNN
+F 1 "GND" V 6655 1272 50  0000 R CNN
+F 2 "" H 6650 1400 50  0001 C CNN
+F 3 "" H 6650 1400 50  0001 C CNN
+	1    6650 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3.3V #PWR011
+U 1 1 600DC366
+P 6650 1500
+F 0 "#PWR011" H 6650 1350 50  0001 C CNN
+F 1 "+3.3V" V 6665 1628 50  0000 L CNN
+F 2 "" H 6650 1500 50  0001 C CNN
+F 3 "" H 6650 1500 50  0001 C CNN
+	1    6650 1500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GNDPWR #PWR012
+U 1 1 600DC365
+P 6650 1600
+F 0 "#PWR012" H 6650 1400 50  0001 C CNN
+F 1 "GNDPWR" V 6654 1491 50  0000 R CNN
+F 2 "" H 6650 1550 50  0001 C CNN
+F 3 "" H 6650 1550 50  0001 C CNN
+	1    6650 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+24V #PWR013
+U 1 1 5FA77315
+P 6650 1700
+F 0 "#PWR013" H 6650 1550 50  0001 C CNN
+F 1 "+24V" V 6665 1828 50  0000 L CNN
+F 2 "" H 6650 1700 50  0001 C CNN
+F 3 "" H 6650 1700 50  0001 C CNN
+	1    6650 1700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x06_Female J5
+U 1 1 5FA73C4E
+P 6850 1400
+F 0 "J5" H 6878 1376 50  0000 L CNN
+F 1 "Conn_01x06_Female" H 6878 1285 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal" H 6850 1400 50  0001 C CNN
+F 3 "~" H 6850 1400 50  0001 C CNN
+	1    6850 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L boards:WT32-ETH0-Board U2
+U 1 1 60B4B871
+P 4700 1800
+F 0 "U2" H 4700 2665 50  0000 C CNN
+F 1 "WT32-ETH0-Board" H 4700 2574 50  0000 C CNN
+F 2 "boards:WT32-ETH0-Board" H 4700 950 50  0001 C CNN
+F 3 "" H 4650 2100 50  0001 C CNN
+	1    4700 1800
+	1    0    0    -1  
+$EndComp
+Text GLabel 5300 1600 2    50   Input ~ 0
+ENABLE
+Text GLabel 4100 1800 0    50   Input ~ 0
+GPIO35
+Text GLabel 4100 1700 0    50   Input ~ 0
+SDA
+Text GLabel 4100 1600 0    50   Input ~ 0
+SCL
+Text GLabel 5300 1800 2    50   Input ~ 0
+GPIO15
+Text GLabel 6650 2200 0    50   Input ~ 0
+GPIO14
+Text GLabel 5300 1700 2    50   Input ~ 0
+GPIO36
+$Comp
+L Switch:SW_DIP_x03 SW1
+U 1 1 60BED09C
+P 1700 1750
+F 0 "SW1" V 1746 1620 50  0000 R CNN
+F 1 "SW_DIP_x03" V 1655 1620 50  0000 R CNN
+F 2 "Button_Switch_THT:SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm" H 1700 1750 50  0001 C CNN
+F 3 "~" H 1700 1750 50  0001 C CNN
+	1    1700 1750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x02 J3
+U 1 1 60BFF081
+P 1250 2850
+F 0 "J3" H 1330 2842 50  0000 L CNN
+F 1 "Enable" H 1330 2751 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 1250 2850 50  0001 C CNN
+F 3 "~" H 1250 2850 50  0001 C CNN
+	1    1250 2850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1700 2750 1450 2750
+$Comp
+L Isolator:PC817 U?
+U 1 1 60C228BD
+P 2350 2850
+F 0 "U?" H 2350 3175 50  0000 C CNN
+F 1 "PC817" H 2350 3084 50  0000 C CNN
+F 2 "Package_DIP:DIP-4_W7.62mm" H 2150 2650 50  0001 L CIN
+F 3 "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf" H 2350 2850 50  0001 L CNN
+	1    2350 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 60C23C19
+P 1900 2750
+F 0 "R?" V 1693 2750 50  0000 C CNN
+F 1 "4k7" V 1784 2750 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1830 2750 50  0001 C CNN
+F 3 "~" H 1900 2750 50  0001 C CNN
+	1    1900 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C3A35D
+P 3000 2200
+F 0 "#PWR?" H 3000 1950 50  0001 C CNN
+F 1 "GND" H 3005 2027 50  0000 C CNN
+F 2 "" H 3000 2200 50  0001 C CNN
+F 3 "" H 3000 2200 50  0001 C CNN
+	1    3000 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR?
+U 1 1 60C3A96B
+P 2050 2950
+F 0 "#PWR?" H 2050 2750 50  0001 C CNN
+F 1 "GNDPWR" H 2054 2796 50  0000 C CNN
+F 2 "" H 2050 2900 50  0001 C CNN
+F 3 "" H 2050 2900 50  0001 C CNN
+	1    2050 2950
+	1    0    0    -1  
+$EndComp
+Text GLabel 2650 2750 2    50   Input ~ 0
+ENABLE
+Wire Wire Line
+	1600 2200 2150 2200
+Wire Wire Line
+	1700 2050 1700 2750
+Wire Wire Line
+	1700 2750 1750 2750
+Connection ~ 1700 2750
+Wire Wire Line
+	1700 1450 1700 1300
+Connection ~ 1700 1300
+Wire Wire Line
+	1700 1300 3000 1300
+$Comp
+L power:+24V #PWR?
+U 1 1 60C70AB7
+P 1450 2850
+F 0 "#PWR?" H 1450 2700 50  0001 C CNN
+F 1 "+24V" H 1465 3023 50  0000 C CNN
+F 2 "" H 1450 2850 50  0001 C CNN
+F 3 "" H 1450 2850 50  0001 C CNN
+	1    1450 2850
+	-1   0    0    1   
+$EndComp
+$EndSCHEMATC
