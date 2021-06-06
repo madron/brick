@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 10
+Sheet 1 9
 Title ""
 Date ""
 Rev ""
@@ -21,6 +21,7 @@ F 0 "J3" H 2278 1026 50  0000 L CNN
 F 1 "Conn_01x06_Female" H 2278 935 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal" H 2250 1050 50  0001 C CNN
 F 3 "~" H 2250 1050 50  0001 C CNN
+F 4 "skip" H 2250 1050 50  0001 C CNN "LCSC"
 	1    2250 1050
 	1    0    0    -1  
 $EndComp
@@ -128,6 +129,7 @@ F 0 "J1" H 1008 1431 50  0000 C CNN
 F 1 "Conn_01x06_Male" H 1008 1340 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal" H 900 1050 50  0001 C CNN
 F 3 "~" H 900 1050 50  0001 C CNN
+F 4 "skip" H 900 1050 50  0001 C CNN "LCSC"
 	1    900  1050
 	1    0    0    -1  
 $EndComp
@@ -315,33 +317,33 @@ F3 "PWR_IN" I R 2700 6100 50
 $EndSheet
 Text GLabel 4950 2050 2    50   Input ~ 0
 GPA0
-Text GLabel 1050 3650 0    50   Input ~ 0
+Text GLabel 6600 2550 0    50   Input ~ 0
 GPA0
-Text GLabel 1050 4000 0    50   Input ~ 0
+Text GLabel 6600 2450 0    50   Input ~ 0
 GPA1
 Text GLabel 4950 2150 2    50   Input ~ 0
 GPA1
-Text GLabel 1050 4350 0    50   Input ~ 0
+Text GLabel 6600 2350 0    50   Input ~ 0
 GPA2
 Text GLabel 4950 2250 2    50   Input ~ 0
 GPA2
-Text GLabel 1050 4700 0    50   Input ~ 0
+Text GLabel 6600 2250 0    50   Input ~ 0
 GPA3
 Text GLabel 4950 2350 2    50   Input ~ 0
 GPA3
-Text GLabel 1050 5050 0    50   Input ~ 0
+Text GLabel 6600 2150 0    50   Input ~ 0
 GPA4
 Text GLabel 4950 2450 2    50   Input ~ 0
 GPA4
-Text GLabel 1050 5400 0    50   Input ~ 0
+Text GLabel 6600 2050 0    50   Input ~ 0
 GPA5
 Text GLabel 4950 2550 2    50   Input ~ 0
 GPA5
-Text GLabel 1050 5750 0    50   Input ~ 0
+Text GLabel 6600 1950 0    50   Input ~ 0
 GPA6
 Text GLabel 4950 2650 2    50   Input ~ 0
 GPA6
-Text GLabel 1050 6100 0    50   Input ~ 0
+Text GLabel 6600 1850 0    50   Input ~ 0
 GPA7
 Text GLabel 4950 2750 2    50   Input ~ 0
 GPA7
@@ -361,21 +363,21 @@ Text GLabel 2700 5750 2    50   Input ~ 0
 I7
 Text GLabel 2700 6100 2    50   Input ~ 0
 I8
-Text GLabel 3400 4900 0    50   Input ~ 0
-I1
-Text GLabel 3400 4800 0    50   Input ~ 0
-I2
-Text GLabel 3400 4700 0    50   Input ~ 0
-I3
-Text GLabel 3400 4600 0    50   Input ~ 0
-I4
-Text GLabel 3400 4500 0    50   Input ~ 0
-I5
-Text GLabel 3400 4400 0    50   Input ~ 0
-I6
-Text GLabel 3400 4300 0    50   Input ~ 0
-I7
 Text GLabel 3400 4200 0    50   Input ~ 0
+I1
+Text GLabel 3400 4300 0    50   Input ~ 0
+I2
+Text GLabel 3400 4400 0    50   Input ~ 0
+I3
+Text GLabel 3400 4500 0    50   Input ~ 0
+I4
+Text GLabel 3400 4600 0    50   Input ~ 0
+I5
+Text GLabel 3400 4700 0    50   Input ~ 0
+I6
+Text GLabel 3400 4800 0    50   Input ~ 0
+I7
+Text GLabel 3400 4900 0    50   Input ~ 0
 I8
 $Comp
 L Connector:Screw_Terminal_01x04 J4
@@ -385,6 +387,7 @@ F 0 "J4" H 3680 4292 50  0000 L CNN
 F 1 "Screw_Terminal_01x04" H 3680 4201 50  0000 L CNN
 F 2 "TerminalBlock:TerminalBlock_bornier-4_P5.08mm" H 3600 4300 50  0001 C CNN
 F 3 "~" H 3600 4300 50  0001 C CNN
+F 4 "skip" H 3600 4300 50  0001 C CNN "LCSC"
 	1    3600 4300
 	1    0    0    -1  
 $EndComp
@@ -396,6 +399,7 @@ F 0 "J5" H 3680 4692 50  0000 L CNN
 F 1 "Screw_Terminal_01x04" H 3680 4601 50  0000 L CNN
 F 2 "TerminalBlock:TerminalBlock_bornier-4_P5.08mm" H 3600 4700 50  0001 C CNN
 F 3 "~" H 3600 4700 50  0001 C CNN
+F 4 "skip" H 3600 4700 50  0001 C CNN "LCSC"
 	1    3600 4700
 	1    0    0    -1  
 $EndComp
@@ -407,6 +411,7 @@ F 0 "J2" H 3680 3892 50  0000 L CNN
 F 1 "Screw_Terminal_01x02" H 3680 3801 50  0000 L CNN
 F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 3600 3900 50  0001 C CNN
 F 3 "~" H 3600 3900 50  0001 C CNN
+F 4 "skip" H 3600 3900 50  0001 C CNN "LCSC"
 	1    3600 3900
 	1    0    0    -1  
 $EndComp
@@ -456,6 +461,7 @@ F 0 "SW1" H 3250 3217 50  0000 C CNN
 F 1 "SW_DIP_x03" H 3250 3126 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm" H 3250 2750 50  0001 C CNN
 F 3 "~" H 3250 2750 50  0001 C CNN
+F 4 "skip" H 3250 2750 50  0001 C CNN "LCSC"
 	1    3250 2750
 	1    0    0    -1  
 $EndComp
@@ -476,23 +482,250 @@ F 3 "" H 2950 2750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 2950 2750
-$Sheet
-S 5000 3600 1550 150 
-U 6024B12E
-F0 "digital-out-1" 50
-F1 "../include/digital-out-5v.sch" 50
-F2 "DIGITAL_PIN" I L 5000 3650 50 
-F3 "PWR_OUT" O R 6550 3650 50 
-$EndSheet
 $Comp
-L Transistor_Array:ULN2803A U?
+L Transistor_Array:ULN2803A U11
 U 1 1 602102EE
 P 7000 2050
-F 0 "U?" H 7000 2617 50  0000 C CNN
+F 0 "U11" H 7000 2617 50  0000 C CNN
 F 1 "ULN2803A" H 7000 2526 50  0000 C CNN
-F 2 "" H 7050 1400 50  0001 L CNN
+F 2 "Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm" H 7050 1400 50  0001 L CNN
 F 3 "http://www.ti.com/lit/ds/symlink/uln2803a.pdf" H 7100 1850 50  0001 C CNN
+F 4 "C9683" H 7000 2050 50  0001 C CNN "LCSC"
 	1    7000 2050
 	1    0    0    -1  
 $EndComp
+$Comp
+L boards:LM2596-Board U10
+U 1 1 60BBF2E0
+P 7000 1150
+F 0 "U10" H 7000 1465 50  0000 C CNN
+F 1 "LM2596-Board" H 7000 1374 50  0000 C CNN
+F 2 "boards:LM2596-Board" H 7000 1150 50  0001 C CNN
+F 3 "" H 7000 1150 50  0001 C CNN
+F 4 "skip" H 7000 1150 50  0001 C CNN "LCSC"
+	1    7000 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+24V #PWR017
+U 1 1 60BC1410
+P 6600 1100
+F 0 "#PWR017" H 6600 950 50  0001 C CNN
+F 1 "+24V" V 6615 1228 50  0000 L CNN
+F 2 "" H 6600 1100 50  0001 C CNN
+F 3 "" H 6600 1100 50  0001 C CNN
+	1    6600 1100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GNDPWR #PWR018
+U 1 1 60BC534E
+P 6600 1200
+F 0 "#PWR018" H 6600 1000 50  0001 C CNN
+F 1 "GNDPWR" V 6604 1091 50  0000 R CNN
+F 2 "" H 6600 1150 50  0001 C CNN
+F 3 "" H 6600 1150 50  0001 C CNN
+	1    6600 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GNDPWR #PWR021
+U 1 1 60BC7991
+P 7400 1200
+F 0 "#PWR021" H 7400 1000 50  0001 C CNN
+F 1 "GNDPWR" V 7404 1091 50  0000 R CNN
+F 2 "" H 7400 1150 50  0001 C CNN
+F 3 "" H 7400 1150 50  0001 C CNN
+	1    7400 1200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR020
+U 1 1 60BC8A2F
+P 7400 1100
+F 0 "#PWR020" H 7400 950 50  0001 C CNN
+F 1 "+5V" V 7415 1228 50  0000 L CNN
+F 2 "" H 7400 1100 50  0001 C CNN
+F 3 "" H 7400 1100 50  0001 C CNN
+	1    7400 1100
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GNDPWR #PWR019
+U 1 1 60BCB6E4
+P 7000 2750
+F 0 "#PWR019" H 7000 2550 50  0001 C CNN
+F 1 "GNDPWR" V 7004 2641 50  0000 R CNN
+F 2 "" H 7000 2700 50  0001 C CNN
+F 3 "" H 7000 2700 50  0001 C CNN
+	1    7000 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR022
+U 1 1 60BCC1E8
+P 7400 1750
+F 0 "#PWR022" H 7400 1600 50  0001 C CNN
+F 1 "+5V" V 7415 1878 50  0000 L CNN
+F 2 "" H 7400 1750 50  0001 C CNN
+F 3 "" H 7400 1750 50  0001 C CNN
+	1    7400 1750
+	0    1    1    0   
+$EndComp
+Text GLabel 1050 3650 0    50   Input ~ 0
+GPB0
+Text GLabel 1050 4000 0    50   Input ~ 0
+GPB1
+Text GLabel 1050 4350 0    50   Input ~ 0
+GPB2
+Text GLabel 1050 4700 0    50   Input ~ 0
+GPB3
+Text GLabel 1050 5050 0    50   Input ~ 0
+GPB4
+Text GLabel 1050 5400 0    50   Input ~ 0
+GPB5
+Text GLabel 1050 5750 0    50   Input ~ 0
+GPB6
+Text GLabel 1050 6100 0    50   Input ~ 0
+GPB7
+$Comp
+L Connector:Screw_Terminal_01x04 J6
+U 1 1 60BDE133
+P 6600 4250
+F 0 "J6" H 6680 4242 50  0000 L CNN
+F 1 "Screw_Terminal_01x04" H 6680 4151 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-4_P5.08mm" H 6600 4250 50  0001 C CNN
+F 3 "~" H 6600 4250 50  0001 C CNN
+F 4 "skip" H 6600 4250 50  0001 C CNN "LCSC"
+	1    6600 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x04 J7
+U 1 1 60BE1176
+P 6600 4650
+F 0 "J7" H 6680 4642 50  0000 L CNN
+F 1 "Screw_Terminal_01x04" H 6680 4551 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-4_P5.08mm" H 6600 4650 50  0001 C CNN
+F 3 "~" H 6600 4650 50  0001 C CNN
+F 4 "skip" H 6600 4650 50  0001 C CNN "LCSC"
+	1    6600 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x02 J9
+U 1 1 60BF1989
+P 6600 3900
+F 0 "J9" H 6680 3892 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 6680 3801 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 6600 3900 50  0001 C CNN
+F 3 "~" H 6600 3900 50  0001 C CNN
+F 4 "skip" H 6600 3900 50  0001 C CNN "LCSC"
+	1    6600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR023
+U 1 1 60BF3B51
+P 5500 4050
+F 0 "#PWR023" H 5500 3850 50  0001 C CNN
+F 1 "GNDPWR" V 5504 3941 50  0000 R CNN
+F 2 "" H 5500 4000 50  0001 C CNN
+F 3 "" H 5500 4000 50  0001 C CNN
+	1    5500 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GNDPWR #PWR025
+U 1 1 60BF4B98
+P 6400 3900
+F 0 "#PWR025" H 6400 3700 50  0001 C CNN
+F 1 "GNDPWR" V 6404 3791 50  0000 R CNN
+F 2 "" H 6400 3850 50  0001 C CNN
+F 3 "" H 6400 3850 50  0001 C CNN
+	1    6400 3900
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR026
+U 1 1 60BF574F
+P 6400 4000
+F 0 "#PWR026" H 6400 3850 50  0001 C CNN
+F 1 "+5V" V 6415 4128 50  0000 L CNN
+F 2 "" H 6400 4000 50  0001 C CNN
+F 3 "" H 6400 4000 50  0001 C CNN
+	1    6400 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR024
+U 1 1 60BF6482
+P 5500 4950
+F 0 "#PWR024" H 5500 4800 50  0001 C CNN
+F 1 "+5V" V 5515 5078 50  0000 L CNN
+F 2 "" H 5500 4950 50  0001 C CNN
+F 3 "" H 5500 4950 50  0001 C CNN
+	1    5500 4950
+	0    1    1    0   
+$EndComp
+Text GLabel 7400 2550 2    50   Input ~ 0
+O1
+Text GLabel 7400 2450 2    50   Input ~ 0
+O2
+Text GLabel 7400 2350 2    50   Input ~ 0
+O3
+Text GLabel 7400 2250 2    50   Input ~ 0
+O4
+Text GLabel 7400 2150 2    50   Input ~ 0
+O5
+Text GLabel 7400 2050 2    50   Input ~ 0
+O6
+Text GLabel 7400 1950 2    50   Input ~ 0
+O7
+Text GLabel 7400 1850 2    50   Input ~ 0
+O8
+Text GLabel 5500 4150 2    50   Input ~ 0
+O1
+Text GLabel 5500 4250 2    50   Input ~ 0
+O2
+Text GLabel 5500 4350 2    50   Input ~ 0
+O3
+Text GLabel 5500 4450 2    50   Input ~ 0
+O4
+Text GLabel 5500 4550 2    50   Input ~ 0
+O5
+Text GLabel 5500 4650 2    50   Input ~ 0
+O6
+Text GLabel 5500 4750 2    50   Input ~ 0
+O7
+Text GLabel 5500 4850 2    50   Input ~ 0
+O8
+$Comp
+L Connector:Conn_01x10_Male J8
+U 1 1 60BD8FA9
+P 5300 4450
+F 0 "J8" H 5408 5031 50  0000 C CNN
+F 1 "Conn_01x10_Male" H 5408 4940 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical" H 5300 4450 50  0001 C CNN
+F 3 "~" H 5300 4450 50  0001 C CNN
+F 4 "skip" H 5300 4450 50  0001 C CNN "LCSC"
+	1    5300 4450
+	1    0    0    -1  
+$EndComp
+Text GLabel 6400 4150 0    50   Input ~ 0
+O1
+Text GLabel 6400 4250 0    50   Input ~ 0
+O2
+Text GLabel 6400 4350 0    50   Input ~ 0
+O3
+Text GLabel 6400 4450 0    50   Input ~ 0
+O4
+Text GLabel 6400 4550 0    50   Input ~ 0
+O5
+Text GLabel 6400 4650 0    50   Input ~ 0
+O6
+Text GLabel 6400 4750 0    50   Input ~ 0
+O7
+Text GLabel 6400 4850 0    50   Input ~ 0
+O8
 $EndSCHEMATC
