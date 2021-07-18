@@ -1,9 +1,14 @@
-fp-info-cache
-sym-lib-table
+*.kicad_prl
+# Backup
 *.kicad_pcb-bak
-*.bck
-*.sch-bak
+*-backups
+# Cache
+fp-info-cache
 *-cache.lib
+# Rescue
 *-rescue.dcm
 *-rescue.lib
+# Spectra session
+*.dsn
+# Zip files
 *.zip

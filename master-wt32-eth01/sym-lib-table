@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name master-wt32-eth01-rescue)(type Legacy)(uri ${KIPRJMOD}/master-wt32-eth01-rescue.lib)(options "")(descr ""))
+)

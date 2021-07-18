@@ -48,7 +48,13 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
@@ -111,8 +117,15 @@
         "min_via_diameter": 0.39999999999999997,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -367,14 +380,8 @@
         "nets": [
           "+24V",
           "+3V3",
-          "FIELD_IN+",
-          "FIELD_IN-",
           "GND",
-          "GNDPWR",
-          "SYSTEM+",
-          "SYSTEM-",
-          "SYSTEM_IN+",
-          "SYSTEM_IN-"
+          "GNDPWR"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -444,6 +451,14 @@
     [
       "23613030-eeb6-4f66-9ed3-1d765a249b58",
       ""
+    ],
+    [
+      "3848d249-cc6c-4022-8433-189bcf7c50cb",
+      "power-24v"
+    ],
+    [
+      "8406dc68-277a-42c5-9b38-e75f1dda8884",
+      "power-3.3v-lm2596-board"
     ]
   ],
   "text_variables": {}
