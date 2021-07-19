@@ -1325,7 +1325,7 @@
   (symbol (lib_id "power:+3.3V") (at 97.79 40.64 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7f64c13d-7314-4bae-9f7c-8d14fb478b30)
-    (property "Reference" "#PWR?" (id 0) (at 93.98 40.64 0)
+    (property "Reference" "#PWR0102" (id 0) (at 93.98 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (id 1) (at 101.6 40.6399 90)
@@ -1950,11 +1950,11 @@
     (path "/41e44a91-e5ce-441d-9aec-ddb4be7769b7"
       (reference "#PWR0101") (unit 1) (value "+24V") (footprint "")
     )
+    (path "/7f64c13d-7314-4bae-9f7c-8d14fb478b30"
+      (reference "#PWR0102") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/493a780e-e9ec-4067-9e1f-d7f4cff82372"
       (reference "#PWR0103") (unit 1) (value "+24V") (footprint "")
-    )
-    (path "/7f64c13d-7314-4bae-9f7c-8d14fb478b30"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/3848d249-cc6c-4022-8433-189bcf7c50cb/11bb09cf-b325-4740-b8ee-b53645f9cc8f"
       (reference "C1") (unit 1) (value "1uF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")

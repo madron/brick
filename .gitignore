@@ -1,4 +1,5 @@
 *.kicad_prl
+*.rules
 # Backup
 *.kicad_pcb-bak
 *-backups
@@ -10,5 +11,6 @@ fp-info-cache
 *-rescue.lib
 # Spectra session
 *.dsn
+*.ses
 # Zip files
 *.zip
