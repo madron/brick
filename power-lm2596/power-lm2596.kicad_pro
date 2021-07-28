@@ -370,7 +370,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.7,
+        "clearance": 0.5,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -385,8 +385,8 @@
           "FIELD-",
           "GND",
           "GNDPWR",
-          "Net-(D1-Pad3)",
-          "Net-(D1-Pad4)",
+          "Net-(D2-Pad3)",
+          "Net-(D2-Pad4)",
           "SYSTEM+",
           "SYSTEM-",
           "unconnected-(J3-Pad1)",
@@ -395,7 +395,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.7,
-        "via_diameter": 0.7,
+        "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6.0
       }
@@ -462,12 +462,12 @@
       ""
     ],
     [
-      "0404434a-4a07-4576-ad3b-2d71aa95fd36",
-      "power-3.3v"
+      "684e85f2-160a-43a5-b070-ff2b24094e5c",
+      "power-24v"
     ],
     [
-      "cd66349a-c157-47d0-a47a-656690eaec39",
-      "power-24v"
+      "d689a4d6-6e28-4a08-b111-57ab388470ef",
+      "power-3.3v-lm2596-board"
     ]
   ],
   "text_variables": {}
