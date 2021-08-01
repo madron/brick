@@ -48,7 +48,13 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
@@ -111,8 +117,15 @@
         "min_via_diameter": 0.39999999999999997,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -332,7 +345,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "brick-slave.kicad_pro",
+    "filename": "master-wt32.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -356,7 +369,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.2,
+        "clearance": 0.5,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -365,10 +378,17 @@
         "microvia_drill": 0.3,
         "name": "Power",
         "nets": [
-          "+5V",
           "+3V3",
+          "+5V",
           "GND",
-          "GNDPWR"
+          "GNDPWR",
+          "IN+",
+          "IN-",
+          "Net-(D1-Pad3)",
+          "Net-(D1-Pad4)",
+          "Net-(D2-Pad3)",
+          "Net-(D2-Pad4)",
+          "Net-(J1-Pad1)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -438,6 +458,14 @@
     [
       "44887b13-1b09-4b91-8a33-1a6d3b3a74eb",
       ""
+    ],
+    [
+      "354cc789-08c6-4b56-9db6-517b81c71421",
+      "power-3.3-mini360"
+    ],
+    [
+      "94e498ad-f16d-4277-b560-73b5984f3ae5",
+      "power-5-mini361"
     ]
   ],
   "text_variables": {}
