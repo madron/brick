@@ -378,11 +378,12 @@
         "microvia_drill": 0.3,
         "name": "Power",
         "nets": [
-          "+24V",
           "+3V3",
           "+5V",
           "GND",
           "GNDPWR",
+          "LED_GND",
+          "LED_GNDPWR",
           "O1",
           "O2",
           "O3",
@@ -492,38 +493,6 @@
     [
       "00000000-0000-0000-0000-0000601f5cf2",
       "digital-in-8"
-    ],
-    [
-      "2613b87a-2f75-4c30-aa28-7da7f88fe697",
-      "digital-out-1"
-    ],
-    [
-      "71b55429-d3ff-474d-b8a1-87a01d8ee675",
-      "digital-out-2"
-    ],
-    [
-      "4ff94d34-73e6-4533-85c8-d6a703cb665d",
-      "digital-out-3"
-    ],
-    [
-      "463b115b-2204-4899-8fdd-a050f0d7abc7",
-      "digital-out-4"
-    ],
-    [
-      "23d0b512-c1e7-4940-af38-99c69847c79e",
-      "digital-out-5"
-    ],
-    [
-      "5d15b7bb-cb67-4a5f-a540-1d0eb34590ea",
-      "digital-out-6"
-    ],
-    [
-      "7c9b9c16-6683-4fa7-bfbc-5df63b6ff97b",
-      "digital-out-7"
-    ],
-    [
-      "3a8f2b87-bbf0-4ea8-9e8b-219a98204ff9",
-      "digital-out-8"
     ]
   ],
   "text_variables": {}
