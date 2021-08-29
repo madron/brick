@@ -380,15 +380,11 @@
         "nets": [
           "+3V3",
           "+5V",
-          "GND",
           "GNDPWR",
           "IN+",
           "IN-",
           "Net-(D1-Pad3)",
-          "Net-(D1-Pad4)",
-          "Net-(D2-Pad3)",
-          "Net-(D2-Pad4)",
-          "Net-(J1-Pad1)"
+          "Net-(D1-Pad4)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -429,13 +425,14 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
+      "label_size_ratio": 0.3,
       "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.3
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
     "meta": {
-      "version": 0
+      "version": 1
     },
     "net_format_name": "Pcbnew",
     "ngspice": {
@@ -460,12 +457,12 @@
       ""
     ],
     [
-      "354cc789-08c6-4b56-9db6-517b81c71421",
-      "power-3.3-mini360"
+      "7971ca1d-716d-45a5-8954-017a91ee0ce4",
+      "power-5-lm2596"
     ],
     [
-      "94e498ad-f16d-4277-b560-73b5984f3ae5",
-      "power-5-mini361"
+      "102043e5-8c9e-4619-998c-439280bb213c",
+      "regulator-3.3"
     ]
   ],
   "text_variables": {}
