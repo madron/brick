@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/max/Documents/Elettronica/brick/wt32-esp01-programmer/wt32-esp01-programmer.kicad_sch</source>
+    <date>sab 20 nov 2021, 11:12:10</date>
+    <tool>Eeschema 5.99.0-unknown-9f841da98e~134~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>wt32-esp01-programmer.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SW1">
+      <value>SW_DIP_x02</value>
+      <footprint>Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm</footprint>
+      <libsource lib="Switch" part="SW_DIP_x02" description="2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wt32-esp01-programmer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060d52348</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP-01-Programmer</value>
+      <footprint>boards:ESP-01-Programmer</footprint>
+      <libsource lib="boards" part="ESP-01-Programmer" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wt32-esp01-programmer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060d35c10</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>WT32-ETH0-Board</value>
+      <footprint>boards:WT32-ETH01-Board-Reversed</footprint>
+      <libsource lib="wt32-esp01-programmer-rescue" part="WT32-ETH0-Board-boards" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wt32-esp01-programmer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060d35e49</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Switch" part="SW_DIP_x02">
+      <description>2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SW?DIP?x2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DIP_x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="boards" part="ESP-01-Programmer">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP-01-Programmer</field>
+        <field name="Footprint">boards:ESP-01-Programmer</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_out"/>
+        <pin num="2" name="GPIO1-RX" type="input"/>
+        <pin num="3" name="GPIO2" type="bidirectional"/>
+        <pin num="4" name="CH_EN" type="output"/>
+        <pin num="5" name="GPIO0" type="bidirectional"/>
+        <pin num="6" name="RST" type="input"/>
+        <pin num="7" name="GPIO3-TX" type="output"/>
+        <pin num="8" name="VCC" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="wt32-esp01-programmer-rescue" part="WT32-ETH0-Board-boards">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">WT32-ETH0-Board-boards</field>
+        <field name="Footprint">boards:WT32-ETH0-Board</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN_BURN" type="input"/>
+        <pin num="2" name="GND_BURN" type="power_in"/>
+        <pin num="3" name="3V3_BURN" type="power_in"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="IO32_CFG" type="bidirectional"/>
+        <pin num="6" name="IO33_485_EN" type="bidirectional"/>
+        <pin num="7" name="IO35_RXD" type="input"/>
+        <pin num="8" name="IO17_TXD" type="bidirectional"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="3V3" type="power_in"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="5V" type="power_in"/>
+        <pin num="13" name="LINK" type="bidirectional"/>
+        <pin num="14" name="GND" type="power_in"/>
+        <pin num="15" name="IO2" type="bidirectional"/>
+        <pin num="16" name="IO4" type="bidirectional"/>
+        <pin num="17" name="IO5" type="bidirectional"/>
+        <pin num="18" name="IO12" type="bidirectional"/>
+        <pin num="19" name="IO14" type="bidirectional"/>
+        <pin num="20" name="IO15" type="bidirectional"/>
+        <pin num="21" name="IO36" type="input"/>
+        <pin num="22" name="IO39" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="IO0" type="bidirectional"/>
+        <pin num="25" name="IO3_RXD" type="bidirectional"/>
+        <pin num="26" name="IO1_TXT" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Switch">
+      <uri>/usr/share/kicad-nightly/library//Switch.kicad_sym</uri>
+    </library>
+    <library logical="boards">
+      <uri>/home/max/Documents/kicad/library/boards.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="SW1" pin="3" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_out"/>
+      <node ref="U2" pin="11" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="2" name="GPIO0">
+      <node ref="SW1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GPIO0" pintype="bidirectional"/>
+      <node ref="U2" pin="24" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="GPIO1">
+      <node ref="U1" pin="2" pinfunction="GPIO1-RX" pintype="input"/>
+      <node ref="U2" pin="26" pinfunction="IO1_TXT" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="GPIO3">
+      <node ref="U1" pin="7" pinfunction="GPIO3-TX" pintype="output"/>
+      <node ref="U2" pin="25" pinfunction="IO3_RXD" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="VCC">
+      <node ref="SW1" pin="4" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="6" name="VCCP">
+      <node ref="SW1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="power_out"/>
+    </net>
+    <net code="7" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="CH_EN" pintype="output"/>
+    </net>
+    <net code="9" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="RST" pintype="input"/>
+    </net>
+    <net code="10" name="unconnected-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="EN_BURN" pintype="input"/>
+    </net>
+    <net code="11" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="GND_BURN" pintype="power_in"/>
+    </net>
+    <net code="12" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="3V3_BURN" pintype="power_in"/>
+    </net>
+    <net code="13" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="14" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="IO32_CFG" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="unconnected-(U2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="IO33_485_EN" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="unconnected-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="IO35_RXD" pintype="input"/>
+    </net>
+    <net code="17" name="unconnected-(U2-Pad8)">
+      <node ref="U2" pin="8" pinfunction="IO17_TXD" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="unconnected-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="19" name="unconnected-(U2-Pad12)">
+      <node ref="U2" pin="12" pinfunction="5V" pintype="power_in"/>
+    </net>
+    <net code="20" name="unconnected-(U2-Pad13)">
+      <node ref="U2" pin="13" pinfunction="LINK" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="unconnected-(U2-Pad14)">
+      <node ref="U2" pin="14" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="22" name="unconnected-(U2-Pad15)">
+      <node ref="U2" pin="15" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="unconnected-(U2-Pad16)">
+      <node ref="U2" pin="16" pinfunction="IO4" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="unconnected-(U2-Pad17)">
+      <node ref="U2" pin="17" pinfunction="IO5" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="unconnected-(U2-Pad18)">
+      <node ref="U2" pin="18" pinfunction="IO12" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="unconnected-(U2-Pad19)">
+      <node ref="U2" pin="19" pinfunction="IO14" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="unconnected-(U2-Pad20)">
+      <node ref="U2" pin="20" pinfunction="IO15" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="unconnected-(U2-Pad21)">
+      <node ref="U2" pin="21" pinfunction="IO36" pintype="input"/>
+    </net>
+    <net code="29" name="unconnected-(U2-Pad22)">
+      <node ref="U2" pin="22" pinfunction="IO39" pintype="input"/>
+    </net>
+    <net code="30" name="unconnected-(U2-Pad23)">
+      <node ref="U2" pin="23" pinfunction="GND" pintype="power_in"/>
+    </net>
+  </nets>
+</export>

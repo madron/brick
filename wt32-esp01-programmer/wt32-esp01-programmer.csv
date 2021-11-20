@@ -1,0 +1,21 @@
+"Source:","/home/max/Documents/Elettronica/brick/wt32-esp01-programmer/wt32-esp01-programmer.kicad_sch"
+"Date:","sab 20 nov 2021, 11:12:10"
+"Tool:","Eeschema 5.99.0-unknown-9f841da98e~134~ubuntu20.04.1"
+"Generator:","/usr/share/kicad-nightly/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","3"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","SW1","SW_DIP_x02","Switch:SW_DIP_x02","Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm","~"
+"","","U1","ESP-01-Programmer","boards:ESP-01-Programmer","boards:ESP-01-Programmer",""
+"","","U2","WT32-ETH0-Board","wt32-esp01-programmer-rescue:WT32-ETH0-Board-boards","boards:WT32-ETH01-Board-Reversed",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","SW1","SW_DIP_x02","Switch:SW_DIP_x02","Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm","~"
+"2","1","U1","ESP-01-Programmer","boards:ESP-01-Programmer","boards:ESP-01-Programmer",""
+"3","1","U2","WT32-ETH0-Board","wt32-esp01-programmer-rescue:WT32-ETH0-Board-boards","boards:WT32-ETH01-Board-Reversed",""

@@ -855,7 +855,7 @@
     (property "Value" "Screw_Terminal_01x03" (id 1) (at 74.422 48.2854 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" (id 2) (at 72.39 49.53 0)
+    (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal" (id 2) (at 72.39 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 72.39 49.53 0)
@@ -992,7 +992,7 @@
       (reference "J3") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000060b52dc7"
-      (reference "J4") (unit 1) (value "Screw_Terminal_01x03") (footprint "TerminalBlock:TerminalBlock_bornier-3_P5.08mm")
+      (reference "J4") (unit 1) (value "Screw_Terminal_01x03") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000060b777a0"
       (reference "U1") (unit 1) (value "RS485-TTL-Board") (footprint "boards:RS485-TTL-Board-DsdTech")

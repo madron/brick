@@ -1,0 +1,4 @@
+colorama
+codespell
+markdown
+git+https://github.com/nophead/NopSCADlib@v16.0.3#egg=NopSCADlib
