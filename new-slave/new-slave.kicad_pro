@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.0,
-          "width": 1.0
+          "drill": 1.0,
+          "height": 1.7,
+          "width": 3.0
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "slave-modbus.kicad_pro",
+    "filename": "new-slave.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -350,7 +350,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
+        "track_width": 0.2,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6.0
@@ -366,8 +366,8 @@
         "microvia_drill": 0.3,
         "name": "Power",
         "nets": [
-          "+24V",
           "+3V3",
+          "+5V",
           "GND",
           "GNDPWR"
         ],
@@ -410,14 +410,13 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
-      "label_size_ratio": 0.3,
       "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.3
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
     "meta": {
-      "version": 1
+      "version": 0
     },
     "net_format_name": "Pcbnew",
     "ngspice": {
@@ -438,7 +437,7 @@
   },
   "sheets": [
     [
-      "03bc1773-02e6-469d-84ed-c35b76a00f35",
+      "44887b13-1b09-4b91-8a33-1a6d3b3a74eb",
       ""
     ]
   ],

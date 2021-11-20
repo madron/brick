@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC Part #
+"Conn_01x06_Male Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)","J1,J2",PinHeader_1x06_P2.54mm_Horizontal,
+"Conn_01x06_Female Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",J3,PinSocket_1x06_P2.54mm_Horizontal,
+"Screw_Terminal_01x03 Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J4,"TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal",
+RS485-TTL-Board ,U1,RS485-TTL-Board-DsdTech,
