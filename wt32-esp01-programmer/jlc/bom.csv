@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC Part #
+"SW_DIP_x02 2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol",SW1,SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm,
+ESP-01-Programmer ,U1,ESP-01-Programmer,
+WT32-ETH0-Board ,U2,WT32-ETH01-Board-Reversed,
