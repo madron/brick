@@ -1,239 +1,657 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<export version="D">
+<export version="E">
   <design>
-    <source>/home/max/Documents/Elettronica/brick/slave-8in-8out/slave-8in-8out.sch</source>
-    <date>dom 6 giu 2021, 19:40:29</date>
-    <tool>Eeschema 5.1.10-88a1d61d58~88~ubuntu20.04.1</tool>
+    <source>/home/max/Documents/Elettronica/brick/slave-8in-8out/slave-8in-8out.kicad_sch</source>
+    <date>sab 20 nov 2021, 12:42:31</date>
+    <tool>Eeschema 5.99.0-unknown-9f841da98e~134~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>slave-8in-8out.sch</source>
+        <source>slave-8in-8out.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="2" name="/digital-in-1/" tstamps="/601F3A35/">
+    <sheet number="2" name="/digital-in-1/" tstamps="/00000000-0000-0000-0000-0000601f3a35/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>digital-in.sch</source>
+        <source>digital-in.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="3" name="/digital-in-2/" tstamps="/601F3F45/">
+    <sheet number="3" name="/digital-in-2/" tstamps="/00000000-0000-0000-0000-0000601f3f45/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>digital-in.sch</source>
+        <source>digital-in.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="4" name="/digital-in-3/" tstamps="/601FB64E/">
+    <sheet number="4" name="/digital-in-3/" tstamps="/00000000-0000-0000-0000-0000601fb64e/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>digital-in.sch</source>
+        <source>digital-in.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="5" name="/digital-in-4/" tstamps="/601F54FA/">
+    <sheet number="5" name="/digital-in-4/" tstamps="/00000000-0000-0000-0000-0000601f54fa/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>digital-in.sch</source>
+        <source>digital-in.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="6" name="/digital-in-5/" tstamps="/601F5635/">
+    <sheet number="6" name="/digital-in-5/" tstamps="/00000000-0000-0000-0000-0000601f5635/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>digital-in.sch</source>
+        <source>digital-in.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="7" name="/digital-in-6/" tstamps="/601F5761/">
+    <sheet number="7" name="/digital-in-6/" tstamps="/00000000-0000-0000-0000-0000601f5761/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>digital-in.sch</source>
+        <source>digital-in.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="8" name="/digital-in-7/" tstamps="/601F5881/">
+    <sheet number="8" name="/digital-in-7/" tstamps="/00000000-0000-0000-0000-0000601f5881/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>digital-in.sch</source>
+        <source>digital-in.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="9" name="/digital-in-8/" tstamps="/601F5CF2/">
+    <sheet number="9" name="/digital-in-8/" tstamps="/00000000-0000-0000-0000-0000601f5cf2/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>digital-in.sch</source>
+        <source>digital-in.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
   </design>
   <components>
-    <comp ref="J3">
-      <value>Conn_01x06_Female</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC">skip</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x06_Female" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5FA73C4E</tstamp>
-    </comp>
-    <comp ref="J1">
-      <value>Conn_01x06_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC">skip</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>600E0E0C</tstamp>
-    </comp>
-    <comp ref="U1">
-      <value>MCP23017_SO</value>
-      <footprint>Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm</footprint>
-      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C47023</field>
-      </fields>
-      <libsource lib="Interface_Expansion" part="MCP23017_SO" description="16-bit I/O expander, I2C, interrupts, w pull-ups, SOIC-28"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>6013EB7B</tstamp>
-    </comp>
-    <comp ref="R1">
-      <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC">C17414</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60156215</tstamp>
-    </comp>
-    <comp ref="R2">
-      <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC">C17414</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60156E2E</tstamp>
-    </comp>
     <comp ref="C1">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C49678</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>60167899</tstamp>
+      <tstamps>00000000-0000-0000-0000-000060167899</tstamps>
     </comp>
-    <comp ref="J4">
-      <value>Screw_Terminal_01x04</value>
-      <footprint>TerminalBlock:TerminalBlock_bornier-4_P5.08mm</footprint>
-      <datasheet>~</datasheet>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1130ddb6-2676-4fcc-a4bc-f126e5a4cfda</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c04a3c0f-1c24-409e-afcf-fa43ae33581a</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05aa0f77-6513-48a5-a5d4-97e427a3a373</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eaa25c40-d6da-42ff-9377-01443632b7c7</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>504d2596-392e-4876-87b1-2ae7254e5876</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c0f8732-eaad-43c0-94bc-9e71f4a27432</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4af2212-81b4-4a8c-a4ec-5b893151c71f</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20c2455c-6d84-4646-a0f8-565d2e8a91c0</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eee10ae1-7e56-41a5-a4ef-cb8260ee8633</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36534599-9b74-4c70-83f0-04d0dd38cd63</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c34a4448-d4ee-42e8-9a40-3d164ff32067</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ddacff3-8ad4-4340-8706-8396aba16cf5</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x06_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal</footprint>
       <fields>
         <field name="LCSC">skip</field>
       </fields>
-      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="skip"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>601F5704</tstamp>
-    </comp>
-    <comp ref="J5">
-      <value>Screw_Terminal_01x04</value>
-      <footprint>TerminalBlock:TerminalBlock_bornier-4_P5.08mm</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC">skip</field>
-      </fields>
-      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>601F6207</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000600e0e0c</tstamps>
     </comp>
     <comp ref="J2">
       <value>Screw_Terminal_01x02</value>
       <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">skip</field>
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="skip"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>601FA55D</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000601fa55d</tstamps>
     </comp>
-    <comp ref="SW1">
-      <value>SW_DIP_x03</value>
-      <footprint>Button_Switch_THT:SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm</footprint>
-      <datasheet>~</datasheet>
+    <comp ref="J3">
+      <value>Conn_01x06_Female</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal</footprint>
       <fields>
         <field name="LCSC">skip</field>
       </fields>
-      <libsource lib="Switch" part="SW_DIP_x03" description="3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <libsource lib="Connector" part="Conn_01x06_Female" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="skip"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>602274A0</tstamp>
+      <tstamps>00000000-0000-0000-0000-00005fa73c4e</tstamps>
     </comp>
-    <comp ref="U11">
+    <comp ref="J4">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-4_P5.08mm</footprint>
+      <fields>
+        <field name="LCSC">skip</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="skip"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601f5704</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-4_P5.08mm</footprint>
+      <fields>
+        <field name="LCSC">skip</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="skip"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601f6207</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-4_P5.08mm</footprint>
+      <fields>
+        <field name="LCSC">skip</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="skip"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060bde133</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-4_P5.08mm</footprint>
+      <fields>
+        <field name="LCSC">skip</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="skip"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060be1176</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x10_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">skip</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x10_Male" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="skip"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060bd8fa9</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <fields>
+        <field name="LCSC">skip</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="skip"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060bf1989</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301717_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca4c442b-13b5-43d9-b64e-ebaca68f5777</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301717_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4e29bc0-7391-41ad-b7c8-ca285b2556cc</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301717_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>553fd6d3-8e62-443b-9358-918e59347696</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301717_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce1f20b1-9d6f-41ab-a509-9841e39c9c22</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301717_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93966fda-da97-46f9-9ba4-5e1bde152c1c</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b83355e5-6b2c-42be-9ab6-429dea4ae519</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35e7181c-dd27-4e3f-aa50-2a4dcaeb8439</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a558f01-3f3d-4cfc-b97a-b16b363ff6b8</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d7a2256-3f84-4dc1-8636-d54d65173c1d</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a7757b5-8394-4c65-8d4a-8f2fba83590b</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5f5fc41-0f38-43d6-a9e5-297e9db7688b</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a726100-7bbe-4767-9951-306fbc5f6fa3</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8872a56-d167-4641-810c-4ae6128c1863</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_DIP_x05</value>
+      <footprint>Button_Switch_THT:SW_DIP_SPSTx05_Slide_9.78x14.88mm_W7.62mm_P2.54mm</footprint>
+      <libsource lib="Switch" part="SW_DIP_x05" description="5x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea2bd8eb-37d6-4239-8208-e2c87ed3d3df</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PCF8575</value>
+      <footprint>Package_SO:SSOP-24_5.3x8.2mm_P0.65mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/pcf8575.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C12251</field>
+      </fields>
+      <libsource lib="custom" part="PCF8575" description=""/>
+      <property name="LCSC" value="C12251"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a6cd2ee-7d7e-4345-b196-13730936518a</tstamps>
+    </comp>
+    <comp ref="U10">
       <value>ULN2803A</value>
       <footprint>Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/uln2803a.pdf</datasheet>
@@ -241,62 +659,81 @@
         <field name="LCSC">C9683</field>
       </fields>
       <libsource lib="Transistor_Array" part="ULN2803A" description="Darlington Transistor Arrays, SOIC18/DIP18"/>
+      <property name="LCSC" value="C9683"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="slave-8in-8out.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>602102EE</tstamp>
+      <tstamps>99e3111a-2bc2-4507-8885-fc0bc7f8c059</tstamps>
     </comp>
-    <comp ref="U10">
-      <value>LM2596-Board</value>
-      <footprint>boards:LM2596-Board</footprint>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
       <fields>
-        <field name="LCSC">skip</field>
+        <field name="LCSC">C84256</field>
       </fields>
-      <libsource lib="boards" part="LM2596-Board" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60BBF2E0</tstamp>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-1"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-1/" tstamps="/00000000-0000-0000-0000-0000601f3a35/"/>
+      <tstamps>b0a7a218-e2f0-4093-b668-da203b2eafe3</tstamps>
     </comp>
-    <comp ref="J6">
-      <value>Screw_Terminal_01x04</value>
-      <footprint>TerminalBlock:TerminalBlock_bornier-4_P5.08mm</footprint>
-      <datasheet>~</datasheet>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
       <fields>
-        <field name="LCSC">skip</field>
+        <field name="LCSC">C84256</field>
       </fields>
-      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60BDE133</tstamp>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-1"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-1/" tstamps="/00000000-0000-0000-0000-0000601f3a35/"/>
+      <tstamps>2f6ea989-dfc0-414c-9b4c-4cc1266f5a3d</tstamps>
     </comp>
-    <comp ref="J7">
-      <value>Screw_Terminal_01x04</value>
-      <footprint>TerminalBlock:TerminalBlock_bornier-4_P5.08mm</footprint>
-      <datasheet>~</datasheet>
+    <comp ref="R3">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
       <fields>
-        <field name="LCSC">skip</field>
+        <field name="LCSC">C25917</field>
       </fields>
-      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60BE1176</tstamp>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-1"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-1/" tstamps="/00000000-0000-0000-0000-0000601f3a35/"/>
+      <tstamps>0418c3a9-2ca6-409a-9508-d1dd0f78b1da</tstamps>
     </comp>
-    <comp ref="J9">
-      <value>Screw_Terminal_01x02</value>
-      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
-      <datasheet>~</datasheet>
+    <comp ref="R4">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
       <fields>
-        <field name="LCSC">skip</field>
+        <field name="LCSC">C25917</field>
       </fields>
-      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60BF1989</tstamp>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-1"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-1/" tstamps="/00000000-0000-0000-0000-0000601f3a35/"/>
+      <tstamps>69961dab-5df6-42c9-8053-14dcb88e0ac7</tstamps>
     </comp>
-    <comp ref="J8">
-      <value>Conn_01x10_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
-      <datasheet>~</datasheet>
+    <comp ref="R5">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
       <fields>
-        <field name="LCSC">skip</field>
+        <field name="LCSC">C25117</field>
       </fields>
-      <libsource lib="Connector" part="Conn_01x10_Male" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60BD8FA9</tstamp>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value="digital-in-1"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-1/" tstamps="/00000000-0000-0000-0000-0000601f3a35/"/>
+      <tstamps>adf5090a-99ef-4526-b1d7-128b63f07b0b</tstamps>
     </comp>
     <comp ref="U2">
       <value>EL817</value>
@@ -306,19 +743,81 @@
         <field name="LCSC">C106900</field>
       </fields>
       <libsource lib="jlcpcb" part="EL817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
-      <sheetpath names="/digital-in-1/" tstamps="/601F3A35/"/>
-      <tstamp>601FE338</tstamp>
+      <property name="LCSC" value="C106900"/>
+      <property name="Sheetname" value="digital-in-1"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-1/" tstamps="/00000000-0000-0000-0000-0000601f3a35/"/>
+      <tstamps>8602c235-e53e-47e6-99ec-d10d7eab8c1f</tstamps>
     </comp>
-    <comp ref="R3">
-      <value>4k7</value>
+    <comp ref="D11">
+      <value>LED</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
       <fields>
-        <field name="LCSC">C17673</field>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-2"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-2/" tstamps="/00000000-0000-0000-0000-0000601f3f45/"/>
+      <tstamps>b0a7a218-e2f0-4093-b668-da203b2eafe3</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-2"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-2/" tstamps="/00000000-0000-0000-0000-0000601f3f45/"/>
+      <tstamps>2f6ea989-dfc0-414c-9b4c-4cc1266f5a3d</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <sheetpath names="/digital-in-1/" tstamps="/601F3A35/"/>
-      <tstamp>602272BD</tstamp>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-2"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-2/" tstamps="/00000000-0000-0000-0000-0000601f3f45/"/>
+      <tstamps>0418c3a9-2ca6-409a-9508-d1dd0f78b1da</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-2"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-2/" tstamps="/00000000-0000-0000-0000-0000601f3f45/"/>
+      <tstamps>69961dab-5df6-42c9-8053-14dcb88e0ac7</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value="digital-in-2"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-2/" tstamps="/00000000-0000-0000-0000-0000601f3f45/"/>
+      <tstamps>adf5090a-99ef-4526-b1d7-128b63f07b0b</tstamps>
     </comp>
     <comp ref="U3">
       <value>EL817</value>
@@ -328,19 +827,81 @@
         <field name="LCSC">C106900</field>
       </fields>
       <libsource lib="jlcpcb" part="EL817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
-      <sheetpath names="/digital-in-2/" tstamps="/601F3F45/"/>
-      <tstamp>601FE338</tstamp>
+      <property name="LCSC" value="C106900"/>
+      <property name="Sheetname" value="digital-in-2"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-2/" tstamps="/00000000-0000-0000-0000-0000601f3f45/"/>
+      <tstamps>8602c235-e53e-47e6-99ec-d10d7eab8c1f</tstamps>
     </comp>
-    <comp ref="R4">
-      <value>4k7</value>
+    <comp ref="D13">
+      <value>LED</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
       <fields>
-        <field name="LCSC">C17673</field>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-3"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-3/" tstamps="/00000000-0000-0000-0000-0000601fb64e/"/>
+      <tstamps>b0a7a218-e2f0-4093-b668-da203b2eafe3</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-3"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-3/" tstamps="/00000000-0000-0000-0000-0000601fb64e/"/>
+      <tstamps>2f6ea989-dfc0-414c-9b4c-4cc1266f5a3d</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <sheetpath names="/digital-in-2/" tstamps="/601F3F45/"/>
-      <tstamp>602272BD</tstamp>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-3"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-3/" tstamps="/00000000-0000-0000-0000-0000601fb64e/"/>
+      <tstamps>0418c3a9-2ca6-409a-9508-d1dd0f78b1da</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-3"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-3/" tstamps="/00000000-0000-0000-0000-0000601fb64e/"/>
+      <tstamps>69961dab-5df6-42c9-8053-14dcb88e0ac7</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value="digital-in-3"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-3/" tstamps="/00000000-0000-0000-0000-0000601fb64e/"/>
+      <tstamps>adf5090a-99ef-4526-b1d7-128b63f07b0b</tstamps>
     </comp>
     <comp ref="U4">
       <value>EL817</value>
@@ -350,19 +911,81 @@
         <field name="LCSC">C106900</field>
       </fields>
       <libsource lib="jlcpcb" part="EL817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
-      <sheetpath names="/digital-in-3/" tstamps="/601FB64E/"/>
-      <tstamp>601FE338</tstamp>
+      <property name="LCSC" value="C106900"/>
+      <property name="Sheetname" value="digital-in-3"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-3/" tstamps="/00000000-0000-0000-0000-0000601fb64e/"/>
+      <tstamps>8602c235-e53e-47e6-99ec-d10d7eab8c1f</tstamps>
     </comp>
-    <comp ref="R5">
-      <value>4k7</value>
+    <comp ref="D15">
+      <value>LED</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
       <fields>
-        <field name="LCSC">C17673</field>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-4"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-4/" tstamps="/00000000-0000-0000-0000-0000601f54fa/"/>
+      <tstamps>b0a7a218-e2f0-4093-b668-da203b2eafe3</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-4"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-4/" tstamps="/00000000-0000-0000-0000-0000601f54fa/"/>
+      <tstamps>2f6ea989-dfc0-414c-9b4c-4cc1266f5a3d</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <sheetpath names="/digital-in-3/" tstamps="/601FB64E/"/>
-      <tstamp>602272BD</tstamp>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-4"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-4/" tstamps="/00000000-0000-0000-0000-0000601f54fa/"/>
+      <tstamps>0418c3a9-2ca6-409a-9508-d1dd0f78b1da</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-4"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-4/" tstamps="/00000000-0000-0000-0000-0000601f54fa/"/>
+      <tstamps>69961dab-5df6-42c9-8053-14dcb88e0ac7</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value="digital-in-4"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-4/" tstamps="/00000000-0000-0000-0000-0000601f54fa/"/>
+      <tstamps>adf5090a-99ef-4526-b1d7-128b63f07b0b</tstamps>
     </comp>
     <comp ref="U5">
       <value>EL817</value>
@@ -372,19 +995,81 @@
         <field name="LCSC">C106900</field>
       </fields>
       <libsource lib="jlcpcb" part="EL817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
-      <sheetpath names="/digital-in-4/" tstamps="/601F54FA/"/>
-      <tstamp>601FE338</tstamp>
+      <property name="LCSC" value="C106900"/>
+      <property name="Sheetname" value="digital-in-4"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-4/" tstamps="/00000000-0000-0000-0000-0000601f54fa/"/>
+      <tstamps>8602c235-e53e-47e6-99ec-d10d7eab8c1f</tstamps>
     </comp>
-    <comp ref="R6">
-      <value>4k7</value>
+    <comp ref="D17">
+      <value>LED</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
       <fields>
-        <field name="LCSC">C17673</field>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-5"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-5/" tstamps="/00000000-0000-0000-0000-0000601f5635/"/>
+      <tstamps>b0a7a218-e2f0-4093-b668-da203b2eafe3</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-5"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-5/" tstamps="/00000000-0000-0000-0000-0000601f5635/"/>
+      <tstamps>2f6ea989-dfc0-414c-9b4c-4cc1266f5a3d</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <sheetpath names="/digital-in-4/" tstamps="/601F54FA/"/>
-      <tstamp>602272BD</tstamp>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-5"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-5/" tstamps="/00000000-0000-0000-0000-0000601f5635/"/>
+      <tstamps>0418c3a9-2ca6-409a-9508-d1dd0f78b1da</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-5"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-5/" tstamps="/00000000-0000-0000-0000-0000601f5635/"/>
+      <tstamps>69961dab-5df6-42c9-8053-14dcb88e0ac7</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value="digital-in-5"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-5/" tstamps="/00000000-0000-0000-0000-0000601f5635/"/>
+      <tstamps>adf5090a-99ef-4526-b1d7-128b63f07b0b</tstamps>
     </comp>
     <comp ref="U6">
       <value>EL817</value>
@@ -394,19 +1079,81 @@
         <field name="LCSC">C106900</field>
       </fields>
       <libsource lib="jlcpcb" part="EL817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
-      <sheetpath names="/digital-in-5/" tstamps="/601F5635/"/>
-      <tstamp>601FE338</tstamp>
+      <property name="LCSC" value="C106900"/>
+      <property name="Sheetname" value="digital-in-5"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-5/" tstamps="/00000000-0000-0000-0000-0000601f5635/"/>
+      <tstamps>8602c235-e53e-47e6-99ec-d10d7eab8c1f</tstamps>
     </comp>
-    <comp ref="R7">
-      <value>4k7</value>
+    <comp ref="D19">
+      <value>LED</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
       <fields>
-        <field name="LCSC">C17673</field>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-6"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-6/" tstamps="/00000000-0000-0000-0000-0000601f5761/"/>
+      <tstamps>b0a7a218-e2f0-4093-b668-da203b2eafe3</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-6"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-6/" tstamps="/00000000-0000-0000-0000-0000601f5761/"/>
+      <tstamps>2f6ea989-dfc0-414c-9b4c-4cc1266f5a3d</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <sheetpath names="/digital-in-5/" tstamps="/601F5635/"/>
-      <tstamp>602272BD</tstamp>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-6"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-6/" tstamps="/00000000-0000-0000-0000-0000601f5761/"/>
+      <tstamps>0418c3a9-2ca6-409a-9508-d1dd0f78b1da</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-6"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-6/" tstamps="/00000000-0000-0000-0000-0000601f5761/"/>
+      <tstamps>69961dab-5df6-42c9-8053-14dcb88e0ac7</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value="digital-in-6"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-6/" tstamps="/00000000-0000-0000-0000-0000601f5761/"/>
+      <tstamps>adf5090a-99ef-4526-b1d7-128b63f07b0b</tstamps>
     </comp>
     <comp ref="U7">
       <value>EL817</value>
@@ -416,19 +1163,81 @@
         <field name="LCSC">C106900</field>
       </fields>
       <libsource lib="jlcpcb" part="EL817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
-      <sheetpath names="/digital-in-6/" tstamps="/601F5761/"/>
-      <tstamp>601FE338</tstamp>
+      <property name="LCSC" value="C106900"/>
+      <property name="Sheetname" value="digital-in-6"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-6/" tstamps="/00000000-0000-0000-0000-0000601f5761/"/>
+      <tstamps>8602c235-e53e-47e6-99ec-d10d7eab8c1f</tstamps>
     </comp>
-    <comp ref="R8">
-      <value>4k7</value>
+    <comp ref="D21">
+      <value>LED</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
       <fields>
-        <field name="LCSC">C17673</field>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-7"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-7/" tstamps="/00000000-0000-0000-0000-0000601f5881/"/>
+      <tstamps>b0a7a218-e2f0-4093-b668-da203b2eafe3</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-7"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-7/" tstamps="/00000000-0000-0000-0000-0000601f5881/"/>
+      <tstamps>2f6ea989-dfc0-414c-9b4c-4cc1266f5a3d</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <sheetpath names="/digital-in-6/" tstamps="/601F5761/"/>
-      <tstamp>602272BD</tstamp>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-7"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-7/" tstamps="/00000000-0000-0000-0000-0000601f5881/"/>
+      <tstamps>0418c3a9-2ca6-409a-9508-d1dd0f78b1da</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-7"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-7/" tstamps="/00000000-0000-0000-0000-0000601f5881/"/>
+      <tstamps>69961dab-5df6-42c9-8053-14dcb88e0ac7</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value="digital-in-7"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-7/" tstamps="/00000000-0000-0000-0000-0000601f5881/"/>
+      <tstamps>adf5090a-99ef-4526-b1d7-128b63f07b0b</tstamps>
     </comp>
     <comp ref="U8">
       <value>EL817</value>
@@ -438,19 +1247,81 @@
         <field name="LCSC">C106900</field>
       </fields>
       <libsource lib="jlcpcb" part="EL817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
-      <sheetpath names="/digital-in-7/" tstamps="/601F5881/"/>
-      <tstamp>601FE338</tstamp>
+      <property name="LCSC" value="C106900"/>
+      <property name="Sheetname" value="digital-in-7"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-7/" tstamps="/00000000-0000-0000-0000-0000601f5881/"/>
+      <tstamps>8602c235-e53e-47e6-99ec-d10d7eab8c1f</tstamps>
     </comp>
-    <comp ref="R9">
-      <value>4k7</value>
+    <comp ref="D23">
+      <value>LED</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
       <fields>
-        <field name="LCSC">C17673</field>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-8"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-8/" tstamps="/00000000-0000-0000-0000-0000601f5cf2/"/>
+      <tstamps>b0a7a218-e2f0-4093-b668-da203b2eafe3</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C84256"/>
+      <property name="Sheetname" value="digital-in-8"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-8/" tstamps="/00000000-0000-0000-0000-0000601f5cf2/"/>
+      <tstamps>2f6ea989-dfc0-414c-9b4c-4cc1266f5a3d</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <sheetpath names="/digital-in-7/" tstamps="/601F5881/"/>
-      <tstamp>602272BD</tstamp>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-8"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-8/" tstamps="/00000000-0000-0000-0000-0000601f5cf2/"/>
+      <tstamps>0418c3a9-2ca6-409a-9508-d1dd0f78b1da</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011222_UNI-ROYAL-Uniroyal-Elec-0402WGF6801TCE_C25917.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25917</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25917"/>
+      <property name="Sheetname" value="digital-in-8"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-8/" tstamps="/00000000-0000-0000-0000-0000601f5cf2/"/>
+      <tstamps>69961dab-5df6-42c9-8053-14dcb88e0ac7</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810170414_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value="digital-in-8"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-8/" tstamps="/00000000-0000-0000-0000-0000601f5cf2/"/>
+      <tstamps>adf5090a-99ef-4526-b1d7-128b63f07b0b</tstamps>
     </comp>
     <comp ref="U9">
       <value>EL817</value>
@@ -460,19 +1331,11 @@
         <field name="LCSC">C106900</field>
       </fields>
       <libsource lib="jlcpcb" part="EL817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
-      <sheetpath names="/digital-in-8/" tstamps="/601F5CF2/"/>
-      <tstamp>601FE338</tstamp>
-    </comp>
-    <comp ref="R10">
-      <value>4k7</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC">C17673</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <sheetpath names="/digital-in-8/" tstamps="/601F5CF2/"/>
-      <tstamp>602272BD</tstamp>
+      <property name="LCSC" value="C106900"/>
+      <property name="Sheetname" value="digital-in-8"/>
+      <property name="Sheetfile" value="../include/digital-in.kicad_sch"/>
+      <sheetpath names="/digital-in-8/" tstamps="/00000000-0000-0000-0000-0000601f5cf2/"/>
+      <tstamps>8602c235-e53e-47e6-99ec-d10d7eab8c1f</tstamps>
     </comp>
   </components>
   <libparts>
@@ -485,6 +1348,7 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">Conn_01x06_Female</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
@@ -504,6 +1368,7 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">Conn_01x06_Male</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
@@ -523,6 +1388,7 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">Conn_01x10_Male</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
@@ -546,6 +1412,7 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
@@ -561,6 +1428,7 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">Screw_Terminal_01x04</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
@@ -578,10 +1446,29 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Device" part="R">
@@ -593,80 +1480,50 @@
       <fields>
         <field name="Reference">R</field>
         <field name="Value">R</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Interface_Expansion" part="MCP23017_SO">
-      <description>16-bit I/O expander, I2C, interrupts, w pull-ups, SOIC-28</description>
-      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf</docs>
-      <footprints>
-        <fp>SOIC*7.5x17.9mm*P1.27mm*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">U</field>
-        <field name="Value">MCP23017_SO</field>
-        <field name="Footprint">Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm</field>
-      </fields>
-      <pins>
-        <pin num="1" name="GPB0" type="BiDi"/>
-        <pin num="2" name="GPB1" type="BiDi"/>
-        <pin num="3" name="GPB2" type="BiDi"/>
-        <pin num="4" name="GPB3" type="BiDi"/>
-        <pin num="5" name="GPB4" type="BiDi"/>
-        <pin num="6" name="GPB5" type="BiDi"/>
-        <pin num="7" name="GPB6" type="BiDi"/>
-        <pin num="8" name="GPB7" type="BiDi"/>
-        <pin num="9" name="VDD" type="power_in"/>
-        <pin num="10" name="VSS" type="power_in"/>
-        <pin num="11" name="NC" type="NotConnected"/>
-        <pin num="12" name="SCK" type="input"/>
-        <pin num="13" name="SDA" type="BiDi"/>
-        <pin num="14" name="NC" type="NotConnected"/>
-        <pin num="15" name="A0" type="input"/>
-        <pin num="16" name="A1" type="input"/>
-        <pin num="17" name="A2" type="input"/>
-        <pin num="18" name="~RESET~" type="input"/>
-        <pin num="19" name="INTB" type="3state"/>
-        <pin num="20" name="INTA" type="3state"/>
-        <pin num="21" name="GPA0" type="BiDi"/>
-        <pin num="22" name="GPA1" type="BiDi"/>
-        <pin num="23" name="GPA2" type="BiDi"/>
-        <pin num="24" name="GPA3" type="BiDi"/>
-        <pin num="25" name="GPA4" type="BiDi"/>
-        <pin num="26" name="GPA5" type="BiDi"/>
-        <pin num="27" name="GPA6" type="BiDi"/>
-        <pin num="28" name="GPA7" type="BiDi"/>
-      </pins>
-    </libpart>
-    <libpart lib="Switch" part="SW_DIP_x03">
-      <description>3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
       <docs>~</docs>
       <footprints>
-        <fp>SW?DIP?x3*</fp>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Switch" part="SW_DIP_x05">
+      <description>5x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SW?DIP?x5*</fp>
       </footprints>
       <fields>
         <field name="Reference">SW</field>
-        <field name="Value">SW_DIP_x03</field>
+        <field name="Value">SW_DIP_x05</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
-        <pin num="3" name="~" type="passive"/>
-        <pin num="4" name="~" type="passive"/>
-        <pin num="5" name="~" type="passive"/>
-        <pin num="6" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Transistor_Array" part="ULN2803A">
-      <aliases>
-        <alias>ULN2802A</alias>
-        <alias>ULN2801A</alias>
-        <alias>ULN2804A</alias>
-        <alias>ULN2805A</alias>
-      </aliases>
       <description>Darlington Transistor Arrays, SOIC18/DIP18</description>
       <docs>http://www.ti.com/lit/ds/symlink/uln2803a.pdf</docs>
       <footprints>
@@ -676,6 +1533,7 @@
       <fields>
         <field name="Reference">U</field>
         <field name="Value">ULN2803A</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/uln2803a.pdf</field>
       </fields>
       <pins>
         <pin num="1" name="I1" type="input"/>
@@ -688,26 +1546,50 @@
         <pin num="8" name="I8" type="input"/>
         <pin num="9" name="GND" type="power_in"/>
         <pin num="10" name="COM" type="passive"/>
-        <pin num="11" name="O8" type="openCol"/>
-        <pin num="12" name="O7" type="openCol"/>
-        <pin num="13" name="O6" type="openCol"/>
-        <pin num="14" name="O5" type="openCol"/>
-        <pin num="15" name="O4" type="openCol"/>
-        <pin num="16" name="O3" type="openCol"/>
-        <pin num="17" name="O2" type="openCol"/>
-        <pin num="18" name="O1" type="openCol"/>
+        <pin num="11" name="O8" type="open_collector"/>
+        <pin num="12" name="O7" type="open_collector"/>
+        <pin num="13" name="O6" type="open_collector"/>
+        <pin num="14" name="O5" type="open_collector"/>
+        <pin num="15" name="O4" type="open_collector"/>
+        <pin num="16" name="O3" type="open_collector"/>
+        <pin num="17" name="O2" type="open_collector"/>
+        <pin num="18" name="O1" type="open_collector"/>
       </pins>
     </libpart>
-    <libpart lib="boards" part="LM2596-Board">
+    <libpart lib="custom" part="PCF8575">
+      <docs>https://www.ti.com/lit/ds/symlink/pcf8575.pdf</docs>
       <fields>
         <field name="Reference">U</field>
-        <field name="Value">LM2596-Board</field>
+        <field name="Value">PCF8575</field>
+        <field name="Footprint">Package_SO:SSOP-24_5.3x8.2mm_P0.65mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/pcf8575.pdf</field>
+        <field name="LCSC">C12251</field>
       </fields>
       <pins>
-        <pin num="1" name="IN+" type="power_in"/>
-        <pin num="2" name="IN-" type="power_in"/>
-        <pin num="3" name="OUT-" type="power_out"/>
-        <pin num="4" name="OUT+" type="power_out"/>
+        <pin num="1" name="INT" type="output"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="P00" type="bidirectional"/>
+        <pin num="5" name="P01" type="bidirectional"/>
+        <pin num="6" name="P02" type="bidirectional"/>
+        <pin num="7" name="P03" type="bidirectional"/>
+        <pin num="8" name="P04" type="bidirectional"/>
+        <pin num="9" name="P05" type="bidirectional"/>
+        <pin num="10" name="P06" type="bidirectional"/>
+        <pin num="11" name="P07" type="bidirectional"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="P10" type="bidirectional"/>
+        <pin num="14" name="P11" type="bidirectional"/>
+        <pin num="15" name="P12" type="bidirectional"/>
+        <pin num="16" name="P13" type="bidirectional"/>
+        <pin num="17" name="P14" type="bidirectional"/>
+        <pin num="18" name="P15" type="bidirectional"/>
+        <pin num="19" name="P16" type="bidirectional"/>
+        <pin num="20" name="P17" type="bidirectional"/>
+        <pin num="21" name="A0" type="input"/>
+        <pin num="22" name="SCL" type="bidirectional"/>
+        <pin num="23" name="SDA" type="bidirectional"/>
+        <pin num="24" name="VCC" type="power_in"/>
       </pins>
     </libpart>
     <libpart lib="jlcpcb" part="EL817">
@@ -717,301 +1599,458 @@
         <field name="Reference">U</field>
         <field name="Value">EL817</field>
         <field name="Footprint">jlcpcb:EL817</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/Everlight-Elec-EL817S1-C-TU-F_C106900.pdf</field>
         <field name="LCSC">C106900</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
-        <pin num="3" name="~" type="passive"/>
-        <pin num="4" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
       </pins>
     </libpart>
   </libparts>
   <libraries>
     <library logical="Connector">
-      <uri>/usr/share/kicad/library/Connector.lib</uri>
+      <uri>/usr/share/kicad-nightly/library//Connector.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>/usr/share/kicad/library/Device.lib</uri>
+      <uri>/usr/share/kicad-nightly/library//Device.kicad_sym</uri>
     </library>
-    <library logical="Interface_Expansion">
-      <uri>/usr/share/kicad/library/Interface_Expansion.lib</uri>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad-nightly/library//Mechanical.kicad_sym</uri>
     </library>
     <library logical="Switch">
-      <uri>/usr/share/kicad/library/Switch.lib</uri>
+      <uri>/usr/share/kicad-nightly/library//Switch.kicad_sym</uri>
     </library>
     <library logical="Transistor_Array">
-      <uri>/usr/share/kicad/library/Transistor_Array.lib</uri>
+      <uri>/usr/share/kicad-nightly/library//Transistor_Array.kicad_sym</uri>
     </library>
-    <library logical="boards">
-      <uri>/home/max/Documents/kicad/library/boards.lib</uri>
+    <library logical="custom">
+      <uri>/home/max/Documents/kicad/library/custom.kicad_sym</uri>
     </library>
     <library logical="jlcpcb">
-      <uri>/home/max/Documents/kicad/library/jlcpcb.lib</uri>
+      <uri>/home/max/Documents/kicad/library/jlcpcb.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
-    <net code="1" name="GPA3">
-      <node ref="U1" pin="24"/>
-      <node ref="U11" pin="5"/>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="3" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="VCC" pintype="power_in"/>
     </net>
-    <net code="2" name="GPA7">
-      <node ref="U11" pin="1"/>
-      <node ref="U1" pin="28"/>
+    <net code="2" name="+5V">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J8" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U10" pin="10" pinfunction="COM" pintype="passive"/>
     </net>
-    <net code="3" name="GPA0">
-      <node ref="U11" pin="8"/>
-      <node ref="U1" pin="21"/>
+    <net code="3" name="A0">
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="8" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="A0" pintype="input"/>
     </net>
-    <net code="4" name="+24V">
-      <node ref="J2" pin="2"/>
-      <node ref="J3" pin="6"/>
-      <node ref="J2" pin="1"/>
-      <node ref="U10" pin="1"/>
-      <node ref="J1" pin="6"/>
+    <net code="4" name="A1">
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="9" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="A1" pintype="input"/>
     </net>
-    <net code="5" name="GNDPWR">
-      <node ref="U5" pin="2"/>
-      <node ref="U9" pin="2"/>
-      <node ref="U10" pin="3"/>
-      <node ref="U6" pin="2"/>
-      <node ref="J1" pin="5"/>
-      <node ref="J8" pin="1"/>
-      <node ref="J9" pin="1"/>
-      <node ref="U7" pin="2"/>
-      <node ref="U8" pin="2"/>
-      <node ref="U4" pin="2"/>
-      <node ref="U11" pin="9"/>
-      <node ref="J3" pin="5"/>
-      <node ref="U2" pin="2"/>
-      <node ref="U10" pin="2"/>
-      <node ref="U3" pin="2"/>
+    <net code="5" name="A2">
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="10" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="A2" pintype="input"/>
     </net>
-    <net code="6" name="+5V">
-      <node ref="U10" pin="4"/>
-      <node ref="J9" pin="2"/>
-      <node ref="J8" pin="10"/>
-      <node ref="U11" pin="10"/>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="4" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="3" pintype="passive"/>
+      <node ref="U3" pin="3" pintype="passive"/>
+      <node ref="U4" pin="3" pintype="passive"/>
+      <node ref="U5" pin="3" pintype="passive"/>
+      <node ref="U6" pin="3" pintype="passive"/>
+      <node ref="U7" pin="3" pintype="passive"/>
+      <node ref="U8" pin="3" pintype="passive"/>
+      <node ref="U9" pin="3" pintype="passive"/>
     </net>
-    <net code="7" name="I6">
-      <node ref="R8" pin="2"/>
-      <node ref="J5" pin="2"/>
+    <net code="7" name="GNDPWR">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW1" pin="5" pintype="passive"/>
+      <node ref="U2" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pintype="passive"/>
+      <node ref="U4" pin="2" pintype="passive"/>
+      <node ref="U5" pin="2" pintype="passive"/>
+      <node ref="U6" pin="2" pintype="passive"/>
+      <node ref="U7" pin="2" pintype="passive"/>
+      <node ref="U8" pin="2" pintype="passive"/>
+      <node ref="U9" pin="2" pintype="passive"/>
     </net>
-    <net code="8" name="I8">
-      <node ref="R10" pin="2"/>
-      <node ref="J5" pin="4"/>
+    <net code="8" name="GPA0">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="P10" pintype="bidirectional"/>
     </net>
-    <net code="9" name="GND">
-      <node ref="U4" pin="3"/>
-      <node ref="J3" pin="3"/>
-      <node ref="U9" pin="3"/>
-      <node ref="U5" pin="3"/>
-      <node ref="SW1" pin="1"/>
-      <node ref="SW1" pin="2"/>
-      <node ref="SW1" pin="3"/>
-      <node ref="U6" pin="3"/>
-      <node ref="U1" pin="10"/>
-      <node ref="C1" pin="2"/>
-      <node ref="J1" pin="3"/>
-      <node ref="U3" pin="3"/>
-      <node ref="U7" pin="3"/>
-      <node ref="U8" pin="3"/>
-      <node ref="U2" pin="3"/>
+    <net code="9" name="GPA1">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="P11" pintype="bidirectional"/>
+      <node ref="U10" pin="7" pinfunction="I7" pintype="input"/>
     </net>
-    <net code="10" name="Net-(SW1-Pad4)">
-      <node ref="SW1" pin="4"/>
-      <node ref="U1" pin="15"/>
+    <net code="10" name="GPA2">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="P12" pintype="bidirectional"/>
+      <node ref="U10" pin="6" pinfunction="I6" pintype="input"/>
     </net>
-    <net code="11" name="Net-(SW1-Pad5)">
-      <node ref="SW1" pin="5"/>
-      <node ref="U1" pin="16"/>
+    <net code="11" name="GPA3">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="P13" pintype="bidirectional"/>
+      <node ref="U10" pin="5" pinfunction="I5" pintype="input"/>
     </net>
-    <net code="12" name="Net-(SW1-Pad6)">
-      <node ref="U1" pin="17"/>
-      <node ref="SW1" pin="6"/>
+    <net code="12" name="GPA4">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="P14" pintype="bidirectional"/>
+      <node ref="U10" pin="4" pinfunction="I4" pintype="input"/>
     </net>
-    <net code="13" name="O1">
-      <node ref="U11" pin="11"/>
-      <node ref="J6" pin="1"/>
-      <node ref="J8" pin="2"/>
+    <net code="13" name="GPA5">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="P15" pintype="bidirectional"/>
+      <node ref="U10" pin="3" pinfunction="I3" pintype="input"/>
     </net>
-    <net code="14" name="O2">
-      <node ref="U11" pin="12"/>
-      <node ref="J8" pin="3"/>
-      <node ref="J6" pin="2"/>
+    <net code="14" name="GPA6">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="P16" pintype="bidirectional"/>
+      <node ref="U10" pin="2" pinfunction="I2" pintype="input"/>
     </net>
-    <net code="15" name="O3">
-      <node ref="U11" pin="13"/>
-      <node ref="J6" pin="3"/>
-      <node ref="J8" pin="4"/>
+    <net code="15" name="GPA7">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="P17" pintype="bidirectional"/>
+      <node ref="U10" pin="1" pinfunction="I1" pintype="input"/>
     </net>
-    <net code="16" name="O4">
-      <node ref="U11" pin="14"/>
-      <node ref="J8" pin="5"/>
-      <node ref="J6" pin="4"/>
+    <net code="16" name="GPB0">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="P00" pintype="bidirectional"/>
     </net>
-    <net code="17" name="O5">
-      <node ref="J7" pin="1"/>
-      <node ref="U11" pin="15"/>
-      <node ref="J8" pin="6"/>
+    <net code="17" name="GPB1">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="P01" pintype="bidirectional"/>
     </net>
-    <net code="18" name="O6">
-      <node ref="U11" pin="16"/>
-      <node ref="J7" pin="2"/>
-      <node ref="J8" pin="7"/>
+    <net code="18" name="GPB2">
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="P02" pintype="bidirectional"/>
     </net>
-    <net code="19" name="O7">
-      <node ref="J7" pin="3"/>
-      <node ref="J8" pin="8"/>
-      <node ref="U11" pin="17"/>
+    <net code="19" name="GPB3">
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="P03" pintype="bidirectional"/>
     </net>
-    <net code="20" name="O8">
-      <node ref="J8" pin="9"/>
-      <node ref="U11" pin="18"/>
-      <node ref="J7" pin="4"/>
+    <net code="20" name="GPB4">
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="P04" pintype="bidirectional"/>
     </net>
-    <net code="21" name="GPA2">
-      <node ref="U1" pin="23"/>
-      <node ref="U11" pin="6"/>
+    <net code="21" name="GPB5">
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="P05" pintype="bidirectional"/>
     </net>
-    <net code="22" name="GPA1">
-      <node ref="U1" pin="22"/>
-      <node ref="U11" pin="7"/>
+    <net code="22" name="GPB6">
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="P06" pintype="bidirectional"/>
     </net>
-    <net code="23" name="Net-(U1-Pad20)">
-      <node ref="U1" pin="20"/>
+    <net code="23" name="GPB7">
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="P07" pintype="bidirectional"/>
+      <node ref="U10" pin="8" pinfunction="I8" pintype="input"/>
     </net>
-    <net code="24" name="GPB1">
-      <node ref="U3" pin="4"/>
-      <node ref="U1" pin="2"/>
+    <net code="24" name="I1">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
     </net>
-    <net code="25" name="Net-(U1-Pad19)">
-      <node ref="U1" pin="19"/>
+    <net code="25" name="I2">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
     </net>
-    <net code="26" name="Net-(U1-Pad18)">
-      <node ref="U1" pin="18"/>
+    <net code="26" name="I3">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
     </net>
-    <net code="27" name="GPA4">
-      <node ref="U11" pin="4"/>
-      <node ref="U1" pin="25"/>
+    <net code="27" name="I4">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
     </net>
-    <net code="28" name="Net-(U1-Pad14)">
-      <node ref="U1" pin="14"/>
+    <net code="28" name="I5">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
     </net>
-    <net code="29" name="SDA">
-      <node ref="R1" pin="2"/>
-      <node ref="J1" pin="2"/>
-      <node ref="U1" pin="13"/>
-      <node ref="J3" pin="2"/>
+    <net code="29" name="I6">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
     </net>
-    <net code="30" name="SCL">
-      <node ref="J1" pin="1"/>
-      <node ref="J3" pin="1"/>
-      <node ref="U1" pin="12"/>
-      <node ref="R2" pin="2"/>
+    <net code="30" name="I7">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
     </net>
-    <net code="31" name="Net-(U1-Pad11)">
-      <node ref="U1" pin="11"/>
+    <net code="31" name="I8">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
     </net>
-    <net code="32" name="GPB0">
-      <node ref="U2" pin="4"/>
-      <node ref="U1" pin="1"/>
+    <net code="32" name="LED_GND">
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+      <node ref="R52" pin="1" pintype="passive"/>
+      <node ref="R53" pin="1" pintype="passive"/>
+      <node ref="R54" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="7" pintype="passive"/>
     </net>
-    <net code="33" name="GPA5">
-      <node ref="U11" pin="3"/>
-      <node ref="U1" pin="26"/>
+    <net code="33" name="LED_GNDPWR">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW1" pin="6" pintype="passive"/>
     </net>
-    <net code="34" name="GPA6">
-      <node ref="U11" pin="2"/>
-      <node ref="U1" pin="27"/>
+    <net code="34" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
     </net>
-    <net code="35" name="GPB2">
-      <node ref="U1" pin="3"/>
-      <node ref="U4" pin="4"/>
+    <net code="35" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R48" pin="2" pintype="passive"/>
     </net>
-    <net code="36" name="GPB3">
-      <node ref="U1" pin="4"/>
-      <node ref="U5" pin="4"/>
+    <net code="36" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
     </net>
-    <net code="37" name="GPB4">
-      <node ref="U6" pin="4"/>
-      <node ref="U1" pin="5"/>
+    <net code="37" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R50" pin="2" pintype="passive"/>
     </net>
-    <net code="38" name="GPB5">
-      <node ref="U7" pin="4"/>
-      <node ref="U1" pin="6"/>
+    <net code="38" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R54" pin="2" pintype="passive"/>
     </net>
-    <net code="39" name="GPB6">
-      <node ref="U8" pin="4"/>
-      <node ref="U1" pin="7"/>
+    <net code="39" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R51" pin="2" pintype="passive"/>
     </net>
-    <net code="40" name="GPB7">
-      <node ref="U1" pin="8"/>
-      <node ref="U9" pin="4"/>
+    <net code="40" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R52" pin="2" pintype="passive"/>
     </net>
-    <net code="41" name="+3V3">
-      <node ref="U1" pin="9"/>
-      <node ref="J1" pin="4"/>
-      <node ref="R2" pin="1"/>
-      <node ref="R1" pin="1"/>
-      <node ref="C1" pin="1"/>
-      <node ref="J3" pin="4"/>
+    <net code="41" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R53" pin="2" pintype="passive"/>
     </net>
-    <net code="42" name="I7">
-      <node ref="J5" pin="3"/>
-      <node ref="R9" pin="2"/>
+    <net code="42" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
     </net>
-    <net code="43" name="I5">
-      <node ref="J5" pin="1"/>
-      <node ref="R7" pin="2"/>
+    <net code="43" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="4" pintype="passive"/>
     </net>
-    <net code="44" name="I4">
-      <node ref="R6" pin="2"/>
-      <node ref="J4" pin="4"/>
+    <net code="44" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
     </net>
-    <net code="45" name="I3">
-      <node ref="J4" pin="3"/>
-      <node ref="R5" pin="2"/>
+    <net code="45" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
     </net>
-    <net code="46" name="I2">
-      <node ref="J4" pin="2"/>
-      <node ref="R4" pin="2"/>
+    <net code="46" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="4" pintype="passive"/>
     </net>
-    <net code="47" name="I1">
-      <node ref="R3" pin="2"/>
-      <node ref="J4" pin="1"/>
+    <net code="47" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
     </net>
-    <net code="48" name="Net-(R3-Pad1)">
-      <node ref="U2" pin="1"/>
-      <node ref="R3" pin="1"/>
+    <net code="48" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
     </net>
-    <net code="49" name="Net-(R4-Pad1)">
-      <node ref="R4" pin="1"/>
-      <node ref="U3" pin="1"/>
+    <net code="49" name="Net-(D14-Pad1)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="4" pintype="passive"/>
     </net>
-    <net code="50" name="Net-(R6-Pad1)">
-      <node ref="R6" pin="1"/>
-      <node ref="U5" pin="1"/>
+    <net code="50" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
     </net>
-    <net code="51" name="Net-(R7-Pad1)">
-      <node ref="R7" pin="1"/>
-      <node ref="U6" pin="1"/>
+    <net code="51" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
     </net>
-    <net code="52" name="Net-(R8-Pad1)">
-      <node ref="U7" pin="1"/>
-      <node ref="R8" pin="1"/>
+    <net code="52" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U5" pin="4" pintype="passive"/>
     </net>
-    <net code="53" name="Net-(R9-Pad1)">
-      <node ref="U8" pin="1"/>
-      <node ref="R9" pin="1"/>
+    <net code="53" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
     </net>
-    <net code="54" name="Net-(R10-Pad1)">
-      <node ref="R10" pin="1"/>
-      <node ref="U9" pin="1"/>
+    <net code="54" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
     </net>
-    <net code="55" name="Net-(R5-Pad1)">
-      <node ref="U4" pin="1"/>
-      <node ref="R5" pin="1"/>
+    <net code="55" name="Net-(D18-Pad1)">
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U6" pin="4" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D20-Pad1)">
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U7" pin="4" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D22-Pad1)">
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="4" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D24-Pad1)">
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U9" pin="4" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(R33-Pad1)">
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(R36-Pad1)">
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(R39-Pad1)">
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="U7" pin="1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(R42-Pad1)">
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="U8" pin="1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(R45-Pad1)">
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="U9" pin="1" pintype="passive"/>
+    </net>
+    <net code="74" name="O1">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U10" pin="11" pinfunction="O8" pintype="open_collector"/>
+    </net>
+    <net code="75" name="O2">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U10" pin="12" pinfunction="O7" pintype="open_collector"/>
+    </net>
+    <net code="76" name="O3">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U10" pin="13" pinfunction="O6" pintype="open_collector"/>
+    </net>
+    <net code="77" name="O4">
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J8" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U10" pin="14" pinfunction="O5" pintype="open_collector"/>
+    </net>
+    <net code="78" name="O5">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U10" pin="15" pinfunction="O4" pintype="open_collector"/>
+    </net>
+    <net code="79" name="O6">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U10" pin="16" pinfunction="O3" pintype="open_collector"/>
+    </net>
+    <net code="80" name="O7">
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U10" pin="17" pinfunction="O2" pintype="open_collector"/>
+    </net>
+    <net code="81" name="O8">
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J8" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U10" pin="18" pinfunction="O1" pintype="open_collector"/>
+    </net>
+    <net code="82" name="SCL">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="SDA">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="INT" pintype="output+no_connect"/>
     </net>
   </nets>
 </export>
