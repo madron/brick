@@ -1,0 +1,16 @@
+Comment,Designator,Footprint,LCSC Part #
+100nF 63V Unpolarized capacitor,C3,C_Rect_L7.0mm_W2.0mm_P5.00mm,
+10uF 50V Polarized capacitor,C4,CP_Radial_D5.0mm_P2.50mm,
+DB107 ,D1,DB107,
+LED Light emitting diode,D4,LED_D5.0mm,
+MountingHole Mounting Hole without connection,"H1,H2,H3,H4",MountingHole_3.2mm_M3,
+"Screw_Terminal_01x04 Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J1,TerminalBlock_bornier-4_P5.08mm,
+"Screw_Terminal_01x03 Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,TerminalBlock_bornier-3_P5.08mm,
+"Conn_01x06_Female Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)","J3,J4",PinSocket_1x06_P2.54mm_Horizontal,
+680 Resistor,"R1,R7",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,
+4k7 Resistor,R2,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,
+10k Resistor,"R3,R4,R5",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,C25744
+LM2596-Board ,U1,LM2596-Board,
+"PC817 DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4",U2,DIP-4_W7.62mm,
+WT32-ETH0-Board ,U3,WT32-ETH01-Board-Reversed,
+"LD1117S33TR_SOT223 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223",U4,TO-220-3_Vertical,
