@@ -1,0 +1,28 @@
+openscad.echo: \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/fillet.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/core/clip.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/core/rounded_rectangle.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/core/teardrops.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/core/bom.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/core/sphere.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/maths.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/tube.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/vitamins/insert.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/vitamins/inserts.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/thread.scad \
+	scad/bom.scad \
+	/home/max/Documents/Elettronica/brick/enclosure/scad/main.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/core/core.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/vitamins/washer.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/global_defs.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/core/global.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/vitamins/screws.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/core.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/rounded_cylinder.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/quadrant.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/vitamins/nuts.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/sweep.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/vitamins/washers.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/vitamins/nut.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/utils/core/polyholes.scad \
+	/home/max/Documents/cad/openscad/NopSCADlib/vitamins/screw.scad
