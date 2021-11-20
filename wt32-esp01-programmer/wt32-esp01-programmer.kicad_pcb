@@ -345,7 +345,7 @@
   (gr_text "Power" (at 142.367 109.855 90) (layer "F.SilkS") (tstamp a33a3732-3d7c-4637-89f6-b7779608e378)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "wt32-esp01-programmer-1.0" (at 118.364 53.848) (layer "F.SilkS") (tstamp b407d27b-f41a-4fbf-b30f-6e4d4310d73e)
+  (gr_text "wt32-esp01-programmer-1.0" (at 115.316 54.102) (layer "F.SilkS") (tstamp b407d27b-f41a-4fbf-b30f-6e4d4310d73e)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "Flash" (at 142.494 103.886 90) (layer "F.SilkS") (tstamp c26c700d-d28d-401e-9159-18ad12f518d3)
