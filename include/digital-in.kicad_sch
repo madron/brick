@@ -597,7 +597,7 @@
     (uuid b0a7a218-e2f0-4093-b668-da203b2eafe3)
     (property "Reference" "D9" (id 0) (at 63.3095 41.91 0))
     (property "Value" "LED" (id 1) (at 63.3095 44.45 0))
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 63.5 48.26 0)
+    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 63.5 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf" (id 3) (at 63.5 48.26 0)
