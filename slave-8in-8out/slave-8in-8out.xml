@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/max/Documents/Elettronica/brick/slave-8in-8out/slave-8in-8out.kicad_sch</source>
-    <date>ven 17 dic 2021, 15:17:04</date>
+    <date>ven 17 dic 2021, 15:53:44</date>
     <tool>Eeschema 5.99.0-unknown-9f841da98e~134~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1860,42 +1860,42 @@
       <node ref="U1" pin="11" pinfunction="P07" pintype="bidirectional"/>
       <node ref="U9" pin="3" pintype="passive"/>
     </net>
-    <net code="24" name="I0">
+    <net code="24" name="I1">
       <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
     </net>
-    <net code="25" name="I1">
+    <net code="25" name="I2">
       <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
     </net>
-    <net code="26" name="I2">
+    <net code="26" name="I3">
       <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
       <node ref="R9" pin="1" pintype="passive"/>
     </net>
-    <net code="27" name="I3">
+    <net code="27" name="I4">
       <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="R32" pin="1" pintype="passive"/>
       <node ref="R33" pin="2" pintype="passive"/>
     </net>
-    <net code="28" name="I4">
+    <net code="28" name="I5">
       <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R35" pin="1" pintype="passive"/>
       <node ref="R36" pin="2" pintype="passive"/>
     </net>
-    <net code="29" name="I5">
+    <net code="29" name="I6">
       <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R38" pin="1" pintype="passive"/>
       <node ref="R39" pin="2" pintype="passive"/>
     </net>
-    <net code="30" name="I6">
+    <net code="30" name="I7">
       <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R41" pin="1" pintype="passive"/>
       <node ref="R42" pin="2" pintype="passive"/>
     </net>
-    <net code="31" name="I7">
+    <net code="31" name="I8">
       <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="R44" pin="1" pintype="passive"/>
       <node ref="R45" pin="2" pintype="passive"/>
@@ -2004,49 +2004,49 @@
       <node ref="R45" pin="1" pintype="passive"/>
       <node ref="U9" pin="1" pintype="passive"/>
     </net>
-    <net code="58" name="O0">
+    <net code="58" name="O1">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U10" pin="11" pinfunction="O8" pintype="open_collector"/>
     </net>
-    <net code="59" name="O1">
+    <net code="59" name="O2">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U10" pin="12" pinfunction="O7" pintype="open_collector"/>
     </net>
-    <net code="60" name="O2">
+    <net code="60" name="O3">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="U10" pin="13" pinfunction="O6" pintype="open_collector"/>
     </net>
-    <net code="61" name="O3">
+    <net code="61" name="O4">
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J8" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="U10" pin="14" pinfunction="O5" pintype="open_collector"/>
     </net>
-    <net code="62" name="O4">
+    <net code="62" name="O5">
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J8" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="U10" pin="15" pinfunction="O4" pintype="open_collector"/>
     </net>
-    <net code="63" name="O5">
+    <net code="63" name="O6">
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J8" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="U10" pin="16" pinfunction="O3" pintype="open_collector"/>
     </net>
-    <net code="64" name="O6">
+    <net code="64" name="O7">
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J8" pin="8" pinfunction="Pin_8" pintype="passive"/>
       <node ref="U10" pin="17" pinfunction="O2" pintype="open_collector"/>
     </net>
-    <net code="65" name="O7">
+    <net code="65" name="O8">
       <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J8" pin="9" pinfunction="Pin_9" pintype="passive"/>
