@@ -4451,7 +4451,7 @@
   (gr_text "I2C Pullup" (at 86.614 116.84) (layer "F.SilkS") (tstamp 092209f5-fcec-4d64-9abf-a3eaeee07d7b)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "slave-8in-8out-0.2" (at 71.628 76.454 90) (layer "F.SilkS") (tstamp 0b0882af-ff41-4bda-a257-98807059f66c)
+  (gr_text "slave-8in-8out-1.0" (at 71.628 76.454 90) (layer "F.SilkS") (tstamp 0b0882af-ff41-4bda-a257-98807059f66c)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "+5V" (at 122.458 112.80275) (layer "F.SilkS") (tstamp 22eecd75-d8be-4c9c-b4a2-373c6e4e4859)
