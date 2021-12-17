@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/max/Documents/Elettronica/brick/slave-8in-8out/slave-8in-8out.kicad_sch</source>
-    <date>ven 17 dic 2021, 15:53:44</date>
+    <date>ven 17 dic 2021, 15:58:42</date>
     <tool>Eeschema 5.99.0-unknown-9f841da98e~134~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1711,6 +1711,7 @@
     <net code="2" name="+5V">
       <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J8" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
@@ -1767,7 +1768,6 @@
       <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
